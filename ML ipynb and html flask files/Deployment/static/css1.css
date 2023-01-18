@@ -1,0 +1,77 @@
+body {
+    margin: 100;
+    width: 100vw;
+    height: 100vh;
+}
+.heading{
+    background-color:#1f2833;
+    background-size: cover;
+    margin: 0px;
+    height: 25px;
+
+    
+}
+input{
+    margin-top: 10px;
+    margin-right: 30px;
+    height: 40px;
+    margin-bottom: 10px;
+    background-color: #1a1d21;
+    border-radius: 10px;
+    color: #0ec7bd;
+    
+}
+label{
+    text-align: center;
+    font-family: Roboto, Lato, Open Sans, Montserrat, Georgia ;
+    color : #0ec7bd;
+    font-style: italic;
+    
+}
+.vl {
+    border-right: thin solid black;
+    height: 530px;
+    margin-right: 750px;
+}
+p{
+    font-size: 25px;
+    margin-bottom: 30px;
+    width: 750px;
+}
+.nn{
+    
+    font-size: 30px;
+    color:rgb(211, 176, 211);
+    display: block;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-weight: lighter;
+    
+
+}
+div{
+    font-size: 25px;
+    margin-bottom: 10px;
+    padding: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 200px;
+    
+}
+
+.Head{
+    font-family: Roboto, Lato, Open Sans, Montserrat, Georgia ;
+    font-style: italic;
+    font-size: 25px;
+    color:#4a9b97;
+    margin-bottom: 15px;
+    margin-left: 50px;
+
+}
+.answer{
+    font-size: 27px;
+    margin-bottom: 15px;
+    color: white;
+}
+.qq{
+    margin-bottom: 20px;
+}

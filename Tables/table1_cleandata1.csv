@@ -1,0 +1,649 @@
+ID,Name,Location,Dining_Review,Delivery_Reviews
+0,Kannur Food Point,BTM,557,48300
+1,Empire Restaurant,Church Street,4501,14300
+2,Falahaar & Kota Kachori,Koramangala 7th Block,3671,80000
+3,Domino's Pizza,MG Road,83,1966
+4,Sri Srinivas Pork Hotel,Ejipura,41,2384
+5,Leon's Burgers & Wings,Koramangala 5th Block,691,42500
+6,McDonald's,MG Road,211,5610
+7,Tibb's Frankie,Indiranagar,0,39
+8,KFC,Shanti Nagar,213,1479
+9,Kanti Sweets,Brigade Road,109,2540
+10,Five Star Chicken,Wilson Garden,0,125
+11,A2B - Adyar Ananda Bhavan,Shanti Nagar,3,442
+12,Hari Super Sandwich,Brigade Road,14,1348
+13,WOW! Momo,Church Street,0,10
+14,Kabab Magic,Richmond Town,139,2927
+15,Thalassery Restaurant,Richmond Town,0,253
+16,MOJO Pizza - 2X Toppings,Shanti Nagar,0,252
+17,Subway,UB City,135,1103
+18,Samosa Party,Brigade Road,16,858
+19,Lassi Shop,Basavanagudi,0,2608
+20,Nandhini Deluxe,St. Marks Road,465,2521
+21,Pizza Hut,Basavanagudi,157,3495
+22,Burger King,Basavanagudi,670,20800
+23,Meghana Foods,Koramangala 5th Block,6846,78600
+24,Onesta,Koramangala 5th Block,9640,12100
+25,Al-Bek,Jayanagar,959,33800
+26,Polar Bear,Basavanagudi,261,4728
+27,Nandhana Palace,Koramangala 4th Block,1462,8282
+28,Corner House Ice Creams,Basavanagudi,0,2356
+29,Goli Vada Pav No. 1,Jayanagar,0,1070
+30,CakeZone,Koramangala 6th Block,0,2187
+31,La Pino'z Pizza,Basavanagudi,18,3012
+32,Anand Sweets And Savouries,Koramangala 5th Block,974,7701
+33,Faasos - Wraps & Rolls,Shanti Nagar,0,743
+34,Ovenstory Pizza,Shanti Nagar,0,939
+35,Wendy's,Shanti Nagar,0,451
+36,EasyBites by Empire,Church Street,0,270
+37,EatFit,Cunningham Road,0,1567
+38,Kwalitywall's Frozen Dessert And Ice Cream Shop,Wilson Garden,0,350
+39,California Burrito,Sigma Mall,152,3675
+40,Natural Ice Cream,St. Marks Road,251,1095
+41,Chai Point,Church Street,205,1555
+42,"Frozen Bottle - Milkshakes, Desserts and Ice Cream",Brigade Road,0,784
+43,Rolls On Wheels,Cunningham Road,84,1116
+44,Behrouz Biryani,Shanti Nagar,0,427
+45,Amma's Pastries,Basavanagudi,0,671
+46,Mani's Dum Biryani,Koramangala 5th Block,882,10900
+47,Sharief Bhai,Koramangala 5th Block,2334,15600
+48,Sri Udupi Food Hub,Koramangala 7th Block,5,1961
+49,Imperial Restaurant,Indiranagar,316,7101
+50,WarmOven Cake & Desserts,Indiranagar,0,11900
+51,Paakashala,Jayanagar,0,1572
+52,Asha Sweet Center,Basavanagudi,33,695
+53,Paradise Biryani,JP Nagar,2063,21600
+54,Ambur Star Briyani Since 1890,Indiranagar,95,6050
+55,Truffles,St. Marks Road,1959,422
+56,Dindigul Thalappakatti,Brigade Road,103,2231
+57,Chaayos Chai+Snacks=Relax,Cunningham Road,75,454
+58,The Belgian Waffle Co.,Basavanagudi,30,1501
+59,Chinese Wok,Hosur Road,0,1240
+60,Glen's Bakehouse,Lavelle Road,1501,5129
+61,Krispy Kreme,Richmond Road,60,891
+62,Theobroma,Lavelle Road,29,1528
+63,Pathaan Sir,Koramangala 7th Block,173,12700
+64,Roti Ghar,Basavanagudi,918,21700
+65,Vijayalakshmi,Basavanagudi,214,26300
+66,Baskin Robbins,Church Street,41,386
+67,Cakewala,Jayanagar,301,3668
+68,Call Me Chow,Koramangala 8th Block,0,10400
+69,Hari Super Sandwich,Basavanagudi,48,5143
+70,M.M.A Kabab and Rolls,Old Madras Road,114,5831
+71,Chaatimes,Jayanagar,0,9063
+72,Starbucks Coffee,Lavelle Road,85,337
+73,RNR Biryani - Taste Of 1953,Jayanagar,1877,1332
+74,Kaati Zone Rolls and Wraps,Indiranagar,0,2328
+75,Punjabi Nawabi,Koramangala 7th Block,0,27400
+76,Shree Mahalakshmi Sweets,Basavanagudi,0,773
+77,BOX8 - Desi Meals,Shanti Nagar,0,539
+78,Chaat Street,Koramangala 4th Block,0,2397
+79,Smoor,Lavelle Road,95,45
+80,Madeena Hotel,Koramangala 5th Block,275,24300
+81,Taco Bell,Indiranagar,491,6655
+82,Sri Udupi Park,Indiranagar,462,17300
+83,Meat And Eat,Domlur,75,2322
+84,Zomoz - The Momo Company,Indiranagar,0,882
+85,Mad Over Donuts,Garuda Mall,159,996
+86,The Pizza Bakery - Brew & Eatery,Church Street,172,1085
+87,Sandwich Guru,Basavanagudi,2,757
+88,Biryani Trip - Destination Hyderabad,Jayanagar,0,137
+89,Potful - Claypot Biryanis,Thippasandra,0,2175
+90,Meghduth Biryanis,Jayanagar,0,1772
+91,T’s 21 Spice Biryani,Indiranagar,0,1904
+92,Sangam Sweets,Jayanagar,3,694
+93,IDC Kitchen,Residency Road,31,2440
+94,Juice Junction,St. Marks Road,124,935
+95,WOW! China,Church Street,26,722
+96,Anjappar,Brigade Road,37,1313
+97,Biryani By Kilo,Koramangala 6th Block,311,2857
+98,Biggies Burger,Church Street,444,1566
+99,Biryani Blues,Church Street,234,573
+100,Third Wave Coffee,UB City,247,240
+101,Keventers - Milkshakes & Desserts,Garuda Mall,21,725
+102,Great Indian Khichdi by EatFit,Cunningham Road,0,414
+103,NH1 Bowls - Highway To North,Langford Town,0,158
+104,Cafe Coffee Day,Lavelle Road,0,8
+105,Madurai Idly Shop,Koramangala 7th Block,551,2976
+106,Big Bowl Company,Hosur Road,0,1211
+107,Karnataka Bhel House,Basavanagudi,504,3851
+108,Barbeque Nation,Rajajinagar,4683,2720
+109,Sardarji Londonwaley,Koramangala 7th Block,722,35000
+110,Chowman,Indiranagar,816,3729
+111,New Udupi Grand,Koramangala 8th Block,12,802
+112,The Dessert Heaven - Pure Veg,Koramangala 6th Block,0,99
+113,Savoury Restaurant,Bannerghatta Road,1105,21900
+114,FB Cakes,BTM,0,518
+115,Aubree,Koramangala 6th Block,93,1274
+116,Just Bake,Banashankari,24,75
+117,Cream Stone Ice Cream,Domlur,0,968
+118,Puliyogare Point,Basavanagudi,754,33300
+119,LunchBox - Meals and Thalis,Basavanagudi,0,670
+120,ibaco,Basavanagudi,81,261
+121,Ambur Biryani Point,Koramangala 8th Block,0,234
+122,Natraj Chole Bhature,Indiranagar,35,2248
+123,Rotti Walla,Indiranagar,0,11400
+124,Calicut Cafe Restaurant,BTM,92,11300
+125,Yumlane Pizza,Koramangala 5th Block,0,21
+126,New Krishna Sagar,Indiranagar,82,9505
+127,Just Shawarma,Indiranagar,0,598
+128,Momo Zone - The Momo Company,Indiranagar,0,249
+129,Sreeraj Lassi Bar,Race Course Road,51,505
+130,Sweet Truth - Cake and Desserts,Shanti Nagar,0,43
+131,The Good Bowl,Shanti Nagar,0,172
+132,Upahara Darshini,Jayanagar,432,8738
+133,SLAY Coffee,Basavanagudi,0,1092
+134,Sri Venkateshwara Sweet Meat Stall,Jayanagar,218,226
+135,The Cake Deluxe,Basavanagudi,0,29
+136,The Thick Shake Factory,Indiranagar,0,479
+137,Bake and Juice,Hosur Road,84,14400
+138,Ghee And Turmeric,Koramangala 4th Block,0,957
+139,Melting Cheese,Basavanagudi,55,2869
+140,Gopaljee Cafe,Koramangala 7th Block,67,1298
+141,Bucket Biryani,Banaswadi,0,1353
+142,Rooftop Cafe,Jayanagar,920,1257
+143,Toscano,UB City,2072,810
+144,Mealful Rolls - India's Biggest Rolls,Langford Town,0,44
+145,ZAZA 22 Spice Awadhi Biryani,Shanti Nagar,0,37
+146,Apsara Ice Creams,Koramangala 5th Block,283,565
+147,Brew Cafe,BTM,2,484
+148,Bhartiya Jalpan,Indiranagar,1663,7007
+149,Belgian Waffle Factory,Indiranagar,202,744
+150,Kunafa World,Koramangala 8th Block,0,1641
+151,Magnolia Bakery,Indiranagar,885,4467
+152,Indiana Burgers,Indiranagar,0,4261
+153,Daily Sushi,Church Street,52,49
+154,Empire Juices and Desserts,Church Street,0,201
+155,Firangi Bake,Shanti Nagar,0,47
+156,KC Das,St. Marks Road,395,963
+157,Rolls Kitchen,Langford Town,5,2784
+158,Swiss Cream,Shanti Nagar,9,582
+159,LeanCrust Pizza- ThinCrust Experts,Langford Town,0,26
+160,Kulfi Shulfi- Kulfis and Ice Cream,Wilson Garden,0,164
+161,Brik Oven,Church Street,2837,934
+162,Sweet Chariot,Brigade Road,0,34
+163,Hotel Fanoos,Richmond Road,847,3302
+164,FB Café By Frozen Bottle,Shivajinagar,0,12
+165,Paris Panini - Gourmet Sandwiches,Indiranagar,281,2180
+166,Jose Mess,BTM,417,5270
+167,Khan Saheb Grills and Rolls,Indiranagar,1058,8265
+168,UBQ By Barbeque Nation,Rajajinagar,0,4530
+169,By 2 Coffee,Basavanagudi,56,4416
+170,Ambur Hot Dum Biryani,BTM,27,232
+171,The Cake Fancy,Basavanagudi,0,25
+172,Pure Veg Meals by Lunchbox,Jayanagar,0,45
+173,Pasta Street,Indiranagar,4896,2097
+174,TrueCakes,Domlur,0,47
+175,ITC Master Chef Creations,Koramangala 7th Block,0,370
+176,Friendly Neighbourhood Pizza - Man,Basavanagudi,20,93
+177,XO Belgian Waffle,Building 105,785,11700
+178,Cupcake Bliss Cakes & Desserts,Indiranagar,0,1739
+179,The Biryani Life,Jayanagar,0,444
+180,Chinese Square,Basavanagudi,93,7574
+181,Donne Biryani Palace,Jayanagar,0,0
+182,The Dessert Zone,Indiranagar,0,145
+183,Just Cakes,Koramangala 7th Block,0,1332
+184,Snack House,Jayanagar,0,30
+185,The Momo Co.,Hosur Road,0,198
+186,Chef Bakers,Koramangala 7th Block,10,73
+187,Antarastriya,Basavanagudi,8,447
+188,Auntie Fung's,Indiranagar,0,1506
+189,Sreenivasa Brahmins Bakery,Basavanagudi,0,711
+190,Habibi Falafel,Indiranagar,160,1450
+191,Crusto’s - Cheese Burst Pizza,Koramangala 6th Block,0,18
+192,New Shanthi Sagar,Basavanagudi,71,840
+193,Gokul Veg,Basavanagudi,431,4265
+194,Udupi Aatithya,Basavanagudi,5,1332
+195,Singh Da Punjabi Dhaba,Koramangala 7th Block,0,1399
+196,Zaatar,Old Madras Road,699,11200
+197,Aligarh House by EatFit,Koramangala 6th Block,0,21400
+198,Mumbai Xpress,Basavanagudi,13,1269
+199,NOTO - Healthy Ice Cream,Indiranagar,0,96
+200,Tomba Kitchens,Ejipura,79,1455
+201,Adiga's,Indiranagar,352,5406
+202,Momo Monk,Jayanagar,0,11
+203,Lo! - Low Carb And Keto Foods,Domlur,0,725
+204,Keventers Ice Cream,Koramangala 7th Block,0,170
+205,Bombay Kulfi,Koramangala 6th Block,0,0
+206,The Tasty Planet,Richmond Road,0,656
+207,Vidyarthi Bhavan,Basavanagudi,5050,593
+208,AB's - Absolute Barbecues,BTM,8084,1312
+209,Nagarjuna Chimney,Jayanagar,1126,1823
+210,IBC (Indian Biryani Company),Koramangala 5th Block,0,718
+211,Mainland China,Koramangala 7th Block,0,464
+212,Home Plate by EatFit,Koramangala 6th Block,0,101
+213,Andhra Gunpowder,Seshadripuram,0,337
+214,Burger Seigneur,St. Marks Road,184,1371
+215,Maharaja Military Canteen,Cunningham Road,0,66
+216,The Pastry House,Wilson Garden,0,773
+217,Louis Burger,Lavelle Road,0,787
+218,India Sweet House,Jayanagar,0,7
+219,Boss Burger,Lavelle Road,0,293
+220,BigBites,Jayanagar,0,8
+221,Taste Of Tibet,Brigade Road,425,2142
+222,Church Street Social,Church Street,8003,1183
+223,Slay Coffee Bar,St. Marks Road,7,193
+224,The Taj Hotel,City Market,14,839
+225,Olio - The Wood Fired Pizzeria,Koramangala 6th Block,0,19
+226,Sukh Sagar,Jayanagar,173,83
+227,Tenzin Kitchen,Koramangala 7th Block,611,10600
+228,Just Bake - Cakes & Confectioners,BTM,0,822
+229,Kabab Biryani Corner,Richmond Road,39,1892
+230,Taato Peero Momos,Koramangala 2nd Block,0,952
+231,Eat N Drink,BTM,98,598
+232,Shiv Sagar Signature,JP Nagar,153,1495
+233,RollsKing,BTM,0,76
+234,Twiststick House,Basavanagudi,200,3891
+235,The Red Box,Indiranagar,0,3581
+236,Hotel Revoli Inn,Shanti Nagar,65,1715
+237,Sagar,Seshadripuram,271,7936
+238,Chicken County Deluxe Restaurant,Majestic,81,1263
+239,Richie Rich,Race Course Road,756,3825
+240,Punjabi Dhaba,Majestic,98,656
+241,Fabelle Chocolates - ITC Gardenia,ITC Gardenia,294,140
+242,Itminaan Matka Biryani - Slow Cooked,Shanti Nagar,0,8
+243,The Brooklyn Creamery - Healthy Ice Cream,Langford Town,0,0
+244,Gandhinagar Donne Biriyani,Majestic,6,225
+245,Sri Maruthi Gowda's Military Hotel,Majestic,3,601
+246,Simpli Namdhari's,Brigade Road,0,38
+247,Cookie Man,Garuda Mall,0,191
+248,Plan B,Brigade Road,4646,185
+249,FreshMenu,Indiranagar,0,30500
+250,Bakingo,Vasanth Nagar,0,346
+251,Chetty's Corner,Seshadripuram,2,2289
+252,Kaapi Katte,Malleshwaram,3,129
+253,Kailash Parbat,Commercial Street,0,93
+254,Nomad Pizza - Traveller Series,Indiranagar,0,386
+255,Sree Udupi Grand,Majestic,1,53
+256,G 's Chinese Dragon,Seshadripuram,0,1416
+257,Milano Ice Cream,Indiranagar,2593,2069
+258,Lakeview Milkbar,MG Road,1698,899
+259,Pai Vihar,City Market,56,1258
+260,Rajhans,St. Marks Road,114,845
+261,New Taj Darbar,Shivajinagar,64,5574
+262,Hamza Hotel,Shivajinagar,308,3513
+263,Dawat Durbar,Shivajinagar,0,444
+264,Santhanam Sweets & Savouries,Commercial Street,0,957
+265,RS Shiv Sagar,MG Road,344,691
+266,Gullu's Chat,Seshadripuram,589,8057
+267,Burger It Up,Vasanth Nagar,0,10
+268,Chai Days,Koramangala 5th Block,51,1099
+269,Big Bang Pizza,Kalyan Nagar,0,115
+270,No Sugar Please!,Hosur Road,0,1744
+271,The Bangalore Creamery,Indiranagar,0,1078
+272,Mini Samrat Chalukya,Vasanth Nagar,18,1326
+273,Art of Delight,Residency Road,2080,1013
+274,Kouzina Kafe - The Food Court,Vasanth Nagar,0,27
+275,Step Right Up,Vasanth Nagar,228,1159
+276,Nirula's,Vasanth Nagar,0,14
+277,Bhagathram Sweets,Commercial Street,271,1084
+278,Yak's Kitchen,Shanti Nagar,204,523
+279,1522 - The Pub,Residency Road,108,159
+280,Smoke House Deli,Lavelle Road,3126,1985
+281,Go Native,Lavelle Road,269,353
+282,Bake N Bloom,Residency Road,0,44
+283,Choi Choi Momos,Brigade Road,0,1898
+284,Chikkanna Tiffin Room,City Market,267,593
+285,Salt - Indian Restaurant Bar & Grill,UB City,65,53
+286,HomeSe Just Veg,Majestic,0,880
+287,Hotel Green Tara,Brigade Road,73,814
+288,The Food Corner,Vasanth Nagar,15,512
+289,Sri Udupi Grand,Shanti Nagar,24,860
+290,Peppy Parathas & Rolls by Chai Point,Church Street,0,2
+291,Hotel Shangrila,Brigade Road,137,306
+292,Desi Vdesi,Church Street,199,710
+293,Tunday Kababi,St. Marks Road,3,60
+294,Pizza Stop,Lavelle Road,0,1000
+295,HRX by EatFit,Cunningham Road,0,13
+296,Hotel Chandrika,Cunningham Road,241,1509
+297,Lavonne,Indiranagar,1666,504
+298,Boba Tree,Indiranagar,39,397
+299,SLV Corner Restaurant,153 Biere Street,471,11500
+300,Rahhams,Kammanahalli,373,4696
+301,Dum Safar Biryani,Rajajinagar,0,106
+302,Malabar Bay,BTM,1708,9172
+303,CupCake Noggins By CakeZone,Domlur,0,25
+304,Carols Pastries & Bakers,HBR Layout,0,101
+305,The Sip Shop,City Market,43,1108
+306,Punjabi Unplugged,Koramangala 7th Block,109,3105
+307,Rolls & Bowls Company,Hosur Road,0,33
+308,Kartik's Mithai Shoppe,Indiranagar,135,219
+309,Bangaliana,Koramangala 7th Block,449,2854
+310,Little Italy,Indiranagar,3572,734
+311,Chamarajpet Dose Corner,City Market,1,230
+312,Hot Momos Darjeeling Style,Koramangala 5th Block,0,2952
+313,Sendhoor Coffee,Indiranagar,171,2849
+314,Juice Junction,Basavanagudi,58,1300
+315,Rang De Basanti Dhaba,Domlur,0,1043
+316,ITC Sunfeast Baked Creations,Koramangala 7th Block,0,182
+317,Goila Butter Chicken,Koramangala 6th Block,0,121
+318,Fiero! Pizzeria,Koramangala 6th Block,266,3012
+319,Karnataka State Co-Operative Fisheries Federation Mysore,Jayanagar,0,990
+320,Tiwari's Ghee Paratha And Chaats,Basavanagudi,3,566
+321,Savoury - Sea Shell Restaurant,BTM,458,2294
+322,No. 10 Fort Cochin,Indiranagar,20,149
+323,ATH - All Things Healthy!,Domlur,0,406
+324,Sri Krishna Sweets,Basavanagudi,35,101
+325,Hatti Kaapi,Basavanagudi,29,869
+326,Elixir - Luxury Pearls Drink,Koramangala 7th Block,5,251
+327,Bangarapet Bhel House,Basavanagudi,0,293
+328,Uttara Karnataka Jolada Rotti Mattu Chapati Angadi,Basavanagudi,21,1457
+329,Fresh Bites,Indiranagar,0,838
+330,Cheesecake & Co.,Koramangala 8th Block,0,350
+331,Sagar Fast Food,Koramangala 8th Block,195,9216
+332,OOttupura,BTM,22,2959
+333,Taste Of Malabar,BTM,0,1676
+334,Chai Mane,Basavanagudi,6,4398
+335,Bengali Khabar,Old Airport Road,12,495
+336,Chinese Daily,Indiranagar,0,1893
+337,Karachi Bakery,Indiranagar,152,1717
+338,KC Das,Jayanagar,0,236
+339,Momo Hut,Koramangala 5th Block,760,1718
+340,Piazza Pizza By Little Italy,Indiranagar,0,98
+341,Thanco's Natural Ice Cream,Basavanagudi,71,293
+342,The Salad Studio,Indiranagar,10,1281
+343,B Track,Kammanahalli,9,218
+344,Rosy Roti,Domlur,0,194
+345,Prezzed Juicery,Old Airport Road,0,156
+346,Raffaele's Ristorante Pizzeria,Koramangala 6th Block,162,2094
+347,Nasi And Mee,Koramangala 4th Block,2889,1559
+348,The Baklava Company,Koramangala 5th Block,0,136
+349,Bonomi,Koramangala 7th Block,0,15
+350,The Lassi Park,Jayanagar,205,727
+351,Punjab Grill,Mantri Square,45,155
+352,Hotel Sanman,Basavanagudi,13,2049
+353,Restaurant 1179,Seshadripuram,0,159
+354,Starboy Pizza & Shakes,Koramangala 7th Block,0,14
+355,Chai Resto,Indiranagar,0,32
+356,S M V Snacks Corner,Basavanagudi,0,386
+357,Royal Treat,Koramangala 5th Block,489,5678
+358,Le Gateau - The Cake Shop,Domlur,0,5009
+359,Thalassery Cafe,BTM,19,366
+360,Asia Kitchen By Mainland China,Koramangala 7th Block,0,2233
+361,BLR Brewing Co.,JP Nagar,422,4
+362,Bamey's Restro Cafe,Koramangala 5th Block,1192,4331
+363,Saiko Sushi House,Thippasandra,0,18
+364,Tamarind - Tamarind Hospitality,Tamarind Hospitality,614,6130
+365,Maggi Mane,Majestic,15,427
+366,Bowl Soul,Indiranagar,0,13
+367,Falhari - A Fruitful Habit,Hosur Road,0,1115
+368,Calcutta Famous Chats,Indiranagar,24,680
+369,Suryawanshi,Indiranagar,587,3447
+370,Khaomomo,Domlur,0,129
+371,Sahana's - Since 1993,Wilson Garden,200,6548
+372,Donne Biryani Adda,Indiranagar,0,175
+373,Juicy City,Koramangala 5th Block,0,456
+374,Bombay 2 Delhi,Indiranagar,0,25
+375,Davanagere Benne Dose Manne,Basavanagudi,2,545
+376,Green Cravings,Indiranagar,0,12
+377,Kolkata Famous Kati Rolls,City Market,0,91
+378,Abees Mess,BTM,5,299
+379,Cheesecakes By CakeZone,Koramangala 6th Block,0,2
+380,The Betel Leaf Co - Originally from Bangalore,Seshadripuram,0,507
+381,Cravy Wings,Koramangala 7th Block,225,13000
+382,Taiki,Jayanagar,0,795
+383,Bowl 99,Indiranagar,0,58
+384,Srinidhi Sagar Deluxe,Domlur,131,2258
+385,Snacks Corner,Jeevan Bhima Nagar,0,743
+386,Basco And Fry,Indiranagar,0,1858
+387,Basaveshwar Khanavali,Domlur,0,25
+388,City Durbar,Jayanagar,89,2888
+389,Food Adda,Basavanagudi,83,580
+390,Thottathil Food House,BTM,176,9621
+391,Nando's,Koramangala 7th Block,0,938
+392,WOW! China,Nexus,13,222
+393,Blue Tokai Coffee Roasters,Koramangala 8th Block,295,760
+394,Imli,Indiranagar,2160,1735
+395,Amma's Pastries,Koramangala 7th Block,0,223
+396,Jain & Veg Cuisines,Basavanagudi,0,285
+397,Pizzaaj,Indiranagar,0,298
+398,Buffalo Wild Wings,Indiranagar,613,574
+399,Sree Ganesh Juice Center,Indiranagar,0,2097
+400,Juice Shop,Koramangala 5th Block,0,4599
+401,Appu's Donne Biryani,Koramangala 6th Block,11,388
+402,Ocea Hotel,Brigade Road,290,2901
+403,Burgerama,Indiranagar,0,154
+404,Shaap,Indiranagar,292,1633
+405,Tewari Bros Mithai Shoppie,Commercial Street,73,1311
+406,Kabab Korner,St. Marks Road,228,968
+407,Cafe Noir,UB City,2730,86
+408,Zed The Baker,Church Street,125,246
+409,MISU,St. Marks Road,2742,808
+410,Priyadarshini Restaurant,Majestic,111,1088
+411,Dolci Desserts,Cunningham Road,824,484
+412,Shyam Mishra Juice Centre,Majestic,0,134
+413,South Ruchis,Majestic,71,567
+414,Atithi Satkaar,City Market,3,264
+415,Gourmet Ice Cream Cakes By Baskin Robbins,Church Street,0,17
+416,GLOBO Ice Creams Of The World,Shanti Nagar,0,3
+417,Kapoor's Chaat Bhandaar,Rajajinagar,32,1500
+418,San Tung Chinese,Malleshwaram,12,1973
+419,Shawarma Grill House,Rajajinagar,1,57
+420,Bombay Bitess,Rajajinagar,5,567
+421,Veena Stores,Malleshwaram,33,23300
+422,My Khana,Koramangala 7th Block,0,2544
+423,Little Cafe,Basavanagudi,65,710
+424,The Coorg Food Co.,Koramangala 6th Block,12,892
+425,Sundae Everyday Ice Creams,Indiranagar,0,251
+426,Ciro's Pizzeria,Indiranagar,0,105
+427,Chinita Real Mexican Food,Indiranagar,2854,991
+428,Mega Biryani,Koramangala 6th Block,0,6
+429,The Kolkata Kati Roll,Indiranagar,0,4508
+430,Trattoria By Toscano,Hosur Road,0,273
+431,Om Meal And Paratha Junction,Domlur,0,233
+432,Upahara Darshini,Basavanagudi,56,739
+433,Sultan Dum Biryani,Indiranagar,0,184
+434,Dofu,Indiranagar,658,922
+435,Kerala Pavilion,Domlur,251,4183
+436,Lucknowee,Koramangala 7th Block,0,165
+437,Wack Waffles & Brownies,Koramangala 5th Block,0,76
+438,Sri Udupi Vaibhav,Indiranagar,11,990
+439,Express By ABs,Koramangala 5th Block,0,32
+440,New York Waffles & Dinges,Koramangala 5th Block,0,53
+441,Pizza@99,Basaveshwara Nagar,0,176
+442,Grill Biryanis,Malleshwaram,0,1235
+443,New Agarwal Bhavan,Sadashiv Nagar,5,1305
+444,Savi Sagar,Malleshwaram,219,20100
+445,Sagar Hotel,Rajajinagar,1123,9874
+446,CTR Shri Sagar,Malleshwaram,4901,30300
+447,New Shanthi Sagar,Rajajinagar,51,6674
+448,Brahmins' Thatte Idli,Malleshwaram,3,2145
+449,Hyderabad Biryani House,Malleshwaram,445,6202
+450,D-Zaprino,Rajajinagar,0,1413
+451,Sree Banashankari Donne Biriyani,Basaveshwara Nagar,289,23500
+452,You Mee,Orion Mall,434,1570
+453,Donne Biryani House,Malleshwaram,107,7281
+454,Karnataka Biryani Point,Rajajinagar,33,2751
+455,Karnataka Chicken Biryani Point,Basaveshwara Nagar,4,687
+456,A1 Biryani Combo 75,Malleshwaram,0,916
+457,Sabzi Aur Roti,Rajajinagar,0,1341
+458,PVR Café,GT World Mall,0,8
+459,Donne Biriyani House,Rajajinagar,74,721
+460,Abubakar Siddiq Hotel,Malleshwaram,0,333
+461,Donut Hubb,Rajajinagar,0,302
+462,Go Naati,Rajajinagar,28,726
+463,New Krishna Bhavan,Malleshwaram,699,1299
+464,Magic Fill,Basavanagudi,0,144
+465,Chicking,Rajajinagar,0,647
+466,Kolkata Famous Kati Roll,Basaveshwara Nagar,24,2223
+467,Bangarpet Chats,Rajajinagar,33,1835
+468,La Heaven,Malleshwaram,142,2364
+469,Lulu Hypermarket,Rajajinagar,18,1792
+470,Donne Biryani Angadi Mane,Sadashiv Nagar,51,2963
+471,Shawarma 21,Rajajinagar,10,986
+472,Four Seasons Fast Food Center,Malleshwaram,105,12200
+473,Malleshwaram Dosa Corner,Malleshwaram,6,22900
+474,Gundappa Donne Biryani,Seshadripuram,222,2009
+475,Copper + Cloves @ The Organic World,Indiranagar,15,212
+476,Big Pitcher,Old Airport Road,12800,553
+477,Pizza House,Frazer Town,2,13
+478,FoodX Restaurant,Vasanth Nagar,1,103
+479,Sagar Delicacy,Ulsoor,99,3837
+480,Havmor Ice Cream,Basavanagudi,28,221
+481,Gilly's Restobar,Bannerghatta Road,3337,68
+482,DiabeSmart,Indiranagar,0,11
+483,Nammur Joint,Jayanagar,0,77
+484,Paratha Box by EatFit,Koramangala 6th Block,0,26
+485,Shetty Lunch Home,Jayanagar,93,600
+486,Ajji Ruchi Kitchen,Koramangala 8th Block,0,461
+487,Kaippunnyam Restaurant,Brigade Road,0,198
+488,Chakum Chukum Calcutta On A Roll,Indiranagar,185,2725
+489,Beijing Bites,Frazer Town,274,4623
+490,Royal Restaurant,Shivajinagar,225,23600
+491,Narmada Chain of Restaurants,Frazer Town,0,0
+492,Delicacy,Frazer Town,273,8278
+493,7 Plates,Frazer Town,0,3115
+494,Shanthi Sagar,Ulsoor,211,20000
+495,Siddique Kabab Centre,Frazer Town,553,10000
+496,Zwarma,Ulsoor,6,98
+497,Shuchi Ruchi,Malleshwaram,367,8002
+498,Al Zara Mandi Arabian Restaurant,Frazer Town,76,1760
+499,Asha Food Camp,Malleshwaram,584,1959
+500,Amul Icecream Parlour,Rajajinagar,1,293
+501,Donne Biriyani House,Richmond Road,418,34900
+502,Main Lassi Shop,Shivajinagar,0,7951
+503,Chichaba's Taj,Frazer Town,553,4689
+504,Karavali Family Restaurant,Brigade Road,28,948
+505,Udupi Shanthi Sagar,Frazer Town,9,677
+506,Al-Pizzalicious,Ulsoor,0,66
+507,Green Onion,Residency Road,1369,1781
+508,Shahi Family Restaurant,Ulsoor,409,12700
+509,Taj Hotel,Shivajinagar,171,1751
+510,Marwadi Chaat & Tiffin Services,Shanti Nagar,85,7495
+511,Happy Platter,Rajajinagar,117,2571
+512,Karama Restaurant,Frazer Town,4122,15200
+513,Cake Pastries,Rajajinagar,0,468
+514,Chung's Chinese Corner,Cunningham Road,244,640
+515,Giani Icecream,Frazer Town,6,119
+516,Sai Ram Juice And Chats,Malleshwaram,36,1488
+517,Sri Maruthi Miltry Hotel,Rajajinagar,144,9534
+518,Mr. Chow,Ulsoor,0,187
+519,Chaat Point,Frazer Town,0,210
+520,Azuki Japan Travel Bistro & Sake,Richmond Town,195,1071
+521,Sai Cafe Veg,Malleshwaram,63,6597
+522,Sheesh Kebab,Frazer Town,183,1889
+523,Mane Holige Kuruku Thindi,Malleshwaram,0,54
+524,Dock Frost'd,Koramangala 7th Block,0,342
+525,The Baker's Dozen,Vasanth Nagar,0,55
+526,Green Chilly,Rajajinagar,79,5132
+527,Edesia by Freshmenu,Richmond Road,0,79
+528,Davanagere Benne Dose,Jayanagar,0,377
+529,Drunken Monkey,Rajajinagar,23,241
+530,Big Wong,Indiranagar,0,2588
+531,Haka,Koramangala 7th Block,0,599
+532,Happy Belly Bakes,MG Road,210,691
+533,Uff Urban Food Factory,Jayanagar,3,249
+534,Venus Biryani,Domlur,147,9599
+535,Odia Khaiba,Old Airport Road,24,1112
+536,Food Manthra,Ulsoor,143,2924
+537,The Hole In The Wall Cafe,Koramangala 4th Block,8060,5350
+538,DA Ying Yang Cuisines,Vasanth Nagar,20,1585
+539,Mr. Momo,Ulsoor,0,111
+540,Lassi Shop,Frazer Town,2,246
+541,Grand Foodies Restaurant,Vasanth Nagar,3,42
+542,New Taj Biriyani,Domlur,3,92
+543,Kabab Magic Roll,Richmond Road,12,1171
+544,"Oki Poki - Sushi, Dimsum & More",Indiranagar,0,34
+545,Hotel Bilal Biriyani Centre,Mysore Road,7,920
+546,Uttara Karnataka Jolada Rotti mattu Chapati Angadi,Basavanagudi,4,455
+547,Prowl Foods By Tiger Shroff,Indiranagar,0,156
+548,Via Milano,La Marvella Hotel,149,147
+549,Food Springs,Jayanagar,252,1102
+550,Protein Chef,Indiranagar,0,44
+551,3 Mangos,Frazer Town,0,400
+552,Shree Ganesh Fruits Juice,Rajajinagar,1,384
+553,Bombay Kulfi & Rabri,Shanti Nagar,0,214
+554,Baba Ganoush Cafe,Frazer Town,17,127
+555,Kanti Sweets,MG Road,2,244
+556,Chickpet Donne Biryani House,Jayanagar,2,110
+557,Rolls On Wheels,Basavanagudi,119,2407
+558,T’s 21 Spice Biryani,Cunningham Road,0,776
+559,Hyderabad Biryaani House,Richmond Road,50,5562
+560,Kapoor's Cafe,Rajajinagar,141,1417
+561,Aromas Of Biryani,Jayanagar,77,644
+562,Mainland China,Church Street,2360,793
+563,NH8,Indiranagar,3403,2317
+564,New Punjabi Hotel,Indiranagar,169,4066
+565,Chikpet Donne Biriyani House,Seshadripuram,6,828
+566,SGS Non Veg - Gundu Pulav,City Market,242,3433
+567,Hotel Navayuga,Majestic,281,3161
+568,Haka,Church Street,0,363
+569,Chung Wah,Residency Road,353,3941
+570,Basaveshwar Khanavali,Malleshwaram,16,898
+571,Asia Kitchen By Mainland China,Church Street,6,134
+572,Hotel Prashanth,JP Nagar,41,732
+573,Uttara Karnataka Jolada Rotti Mattu Chapati Angadi,Seshadripuram,0,399
+574,Gurukrupa Paratha House,Old Airport Road,327,19500
+575,Burma Burma,Indiranagar,2969,1457
+576,Maravanthe,Indiranagar,972,5813
+577,Chianti,Indiranagar,5354,331
+578,Karim's Delhi 6,St. Marks Road,55,675
+579,Punjabi Pure Veg Restaurant Since 1994,Majestic,38,753
+580,The Grill & Cheese Cafe,Frazer Town,31,467
+581,BIB - Breakfast In The Box,BTM,0,873
+582,Anupam's Coast II Coast,Koramangala 6th Block,980,1047
+583,Paratha Plaza,Indiranagar,271,1560
+584,Karavali Kolimane,Wilson Garden,64,919
+585,Dal Roti Sabji,Indiranagar,182,4901
+586,Bheema's,Church Street,871,974
+587,Hotel Select,Shanti Nagar,4,20
+588,Phobidden Fruit,Indiranagar,3241,557
+589,The Fatty Bao,Indiranagar,4391,4548
+590,China Bistro,Indiranagar,1331,1088
+591,Karavali Lunch Home,Malleshwaram,176,7174
+592,Bangalore Mandarin,Indiranagar,1095,3367
+593,Wow Chow,Church Street,0,0
+594,Nagashree's,Shanti Nagar,58,8
+595,Chikkanna Tiffin Room,Ulsoor,0,47
+596,Fishland,Majestic,360,301
+597,Coastal Machali Co.,Residency Road,250,313
+598,Dakshin,Wilson Garden,97,862
+599,N.S Grills And Kabab Corner,Shivajinagar,0,3
+600,Baisakhi,Basavanagudi,489,3835
+601,21st Amendment Gastrobar,Indiranagar,2501,6
+602,Salt Mango Tree,Indiranagar,390,1347
+603,Raaga,Indiranagar,317,1016
+604,Veg Brooo - Chinese,Indiranagar,0,70
+605,Al Noor,Shivajinagar,61,415
+606,World On A Plate - Citrine Hotel,Citrine Hotel,165,157
+607,Basaveshwar Khanavali,Majestic,3,48
+608,Pulimunchi,Sadashiv Nagar,584,604
+609,Butter Delivery,Lavelle Road,0,74
+610,The Konkan - Seafood Restaurant,St. Marks Road,288,95
+611,Pahilwani Handi,Shivajinagar,50,16
+612,Chung Wah Express,Indiranagar,101,1077
+613,Mangalore Pearl - Seafood Restaurant,Ulsoor,235,813
+614,Bombay Brasserie,Indiranagar,2441,636
+615,Hotel Chandru - Nimma Mane Oota,Seshadripuram,2,25
+616,Chapathi Box,Koramangala 8th Block,0,0
+617,G.H.S Nonveg,City Market,6,8
+618,Apple Villa Restaurant,Shanti Nagar,1,6
+619,Hokart - Bangalore 99 Variety Dosa,Commercial Street,0,1
+620,Hokart - Darjeeling Momos,Koramangala 4th Block,0,14
+621,Holige Mane,Wilson Garden,0,18
+622,Aioli BBQ And Grill,Cunningham Road,14,4
+623,Mumbai 99 Variety Dosa Special,Brigade Road,0,0
+624,Nammura Taaja Upahara,Basavanagudi,1,3
+625,Brown Burger Co,Yeshwantpur,1,1
+626,Ying Zheng China,Wilson Garden,0,80
+627,Euphoria Bakers,Frazer Town,0,12
+628,The Adukkala Restaurant,Brigade Road,68,1002
+629,Yama Shiro,Residency Road,16,3
+630,Chaat Paavlian,MG Road,0,122
+631,JIANG Pure Veg,MG Road,0,46
+632,The Gourmet Kitchen & Bar- Hotel Ramanashree,Hotel Ramanashree,225,41
+633,Kudla - Hotel Ramanashree,Hotel Ramanashree,422,142
+634,Dvg Biryani And Kabab Center,City Market,0,1
+635,The Sandwich Bite,Vasanth Nagar,0,2
+636,Cafe Igniite,Brigade Road,0,4
+637,Simply Veg,Basavanagudi,164,52
+638,New Dillibite,Ulsoor,0,20
+639,Clay Resto,Majestic,1,0
+640,Dinesh Food Corner,Ejipura,0,0
+641,Yohan Kitchen,Ejipura,0,8
+642,Latitude - Tulip Inn,Seshadripuram,51,0
+643,Hotel New Prashanth Naati Shyli,Majestic,0,18
+644,Samruddi Nonveg,City Market,0,2
+645,Randhan - A - Bandhan,Wilson Garden,0,366
+646,Amudham Biryani,Wilson Garden,0,0
+647,Green Kitchen Palace,City Market,0,4

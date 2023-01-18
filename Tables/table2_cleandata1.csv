@@ -1,0 +1,2607 @@
+ID,Name,Cost_for_one,Cuisines,Rating
+0,Kannur Food Point,200,Kerala,3.8
+0,Kannur Food Point,200, Chinese,3.8
+0,Kannur Food Point,200, South Indian,3.8
+0,Kannur Food Point,200, Arabian,3.8
+0,Kannur Food Point,200, Juices,3.8
+0,Kannur Food Point,200, Beverages,3.8
+0,Kannur Food Point,200, Shake,3.8
+1,Empire Restaurant,200,North Indian,4
+1,Empire Restaurant,200, Biryani,4
+1,Empire Restaurant,200, Kebab,4
+1,Empire Restaurant,200, Chinese,4
+1,Empire Restaurant,200, South Indian,4
+1,Empire Restaurant,200, Mughlai,4
+1,Empire Restaurant,200, Beverages,4
+2,Falahaar & Kota Kachori,200,North Indian,3.9
+2,Falahaar & Kota Kachori,200, Rajasthani,3.9
+2,Falahaar & Kota Kachori,200, Fast Food,3.9
+2,Falahaar & Kota Kachori,200, Mithai,3.9
+2,Falahaar & Kota Kachori,200, Beverages,3.9
+2,Falahaar & Kota Kachori,200, Desserts,3.9
+3,Domino's Pizza,200,Pizza,3.6
+3,Domino's Pizza,200, Fast Food,3.6
+3,Domino's Pizza,200, Desserts,3.6
+3,Domino's Pizza,200, Beverages,3.6
+4,Sri Srinivas Pork Hotel,200,Fast Food,3.3
+5,Leon's Burgers & Wings,200,Burger,4.2
+5,Leon's Burgers & Wings,200, Fast Food,4.2
+5,Leon's Burgers & Wings,200, Wraps,4.2
+5,Leon's Burgers & Wings,200, Street Food,4.2
+5,Leon's Burgers & Wings,200, Desserts,4.2
+5,Leon's Burgers & Wings,200, Beverages,4.2
+6,McDonald's,200,Burger,4
+6,McDonald's,200, Fast Food,4
+6,McDonald's,200, Beverages,4
+7,Tibb's Frankie,200,Rolls,3.5
+8,KFC,200,Burger,4.1
+8,KFC,200, Fast Food,4.1
+8,KFC,200, Biryani,4.1
+8,KFC,200, Desserts,4.1
+8,KFC,200, Beverages,4.1
+9,Kanti Sweets,50,Mithai,4.5
+9,Kanti Sweets,50, Street Food,4.5
+9,Kanti Sweets,50,Mithai,4.5
+9,Kanti Sweets,50, Street Food,4.5
+555,Kanti Sweets,200,Mithai,4.6
+555,Kanti Sweets,200, Street Food,4.6
+555,Kanti Sweets,200,Mithai,4.6
+555,Kanti Sweets,200, Street Food,4.6
+10,Five Star Chicken,50,Roast Chicken,4
+10,Five Star Chicken,50, Burger,4
+10,Five Star Chicken,50, Fast Food,4
+10,Five Star Chicken,50, Wraps,4
+11,A2B - Adyar Ananda Bhavan,50,South Indian,4.2
+11,A2B - Adyar Ananda Bhavan,50, Street Food,4.2
+11,A2B - Adyar Ananda Bhavan,50, North Indian,4.2
+11,A2B - Adyar Ananda Bhavan,50, Chinese,4.2
+11,A2B - Adyar Ananda Bhavan,50, Fast Food,4.2
+11,A2B - Adyar Ananda Bhavan,50, Beverages,4.2
+11,A2B - Adyar Ananda Bhavan,50, Desserts,4.2
+12,Hari Super Sandwich,50,Fast Food,3.6
+12,Hari Super Sandwich,50, Sandwich,3.6
+12,Hari Super Sandwich,50, Street Food,3.6
+12,Hari Super Sandwich,50,Street Food,3.6
+12,Hari Super Sandwich,50, Fast Food,3.6
+12,Hari Super Sandwich,50, Sandwich,3.6
+69,Hari Super Sandwich,100,Fast Food,4.1
+69,Hari Super Sandwich,100, Sandwich,4.1
+69,Hari Super Sandwich,100, Street Food,4.1
+69,Hari Super Sandwich,100,Street Food,4.1
+69,Hari Super Sandwich,100, Fast Food,4.1
+69,Hari Super Sandwich,100, Sandwich,4.1
+13,WOW! Momo,50,Momos,4.1
+13,WOW! Momo,50, Fast Food,4.1
+13,WOW! Momo,50, Tibetan,4.1
+14,Kabab Magic,50,North Indian,3.7
+14,Kabab Magic,50, Kebab,3.7
+14,Kabab Magic,50, Hyderabadi,3.7
+14,Kabab Magic,50, Mughlai,3.7
+14,Kabab Magic,50, Chinese,3.7
+14,Kabab Magic,50, Rolls,3.7
+15,Thalassery Restaurant,50,Kerala,3.6
+15,Thalassery Restaurant,50, South Indian,3.6
+15,Thalassery Restaurant,50, Seafood,3.6
+15,Thalassery Restaurant,50, North Indian,3.6
+15,Thalassery Restaurant,50, Chinese,3.6
+15,Thalassery Restaurant,50, Arabian,3.6
+15,Thalassery Restaurant,50, Beverages,3.6
+15,Thalassery Restaurant,50, Shake,3.6
+16,MOJO Pizza - 2X Toppings,50,Pizza,4.3
+16,MOJO Pizza - 2X Toppings,50, Fast Food,4.3
+16,MOJO Pizza - 2X Toppings,50, Desserts,4.3
+16,MOJO Pizza - 2X Toppings,50, Beverages,4.3
+17,Subway,50,Healthy Food,3.7
+17,Subway,50, Fast Food,3.7
+17,Subway,50, Sandwich,3.7
+17,Subway,50, Salad,3.7
+17,Subway,50, Beverages,3.7
+17,Subway,50, Wraps,3.7
+18,Samosa Party,50,Street Food,4.5
+18,Samosa Party,50, Tea,4.5
+19,Lassi Shop,50,Beverages,3.6
+19,Lassi Shop,50, Fast Food,3.6
+19,Lassi Shop,50, Burger,3.6
+19,Lassi Shop,50, Shake,3.6
+19,Lassi Shop,50, Juices,3.6
+19,Lassi Shop,50, Ice Cream,3.6
+19,Lassi Shop,50, Desserts,3.6
+19,Lassi Shop,50,Beverages,3.6
+19,Lassi Shop,50, Ice Cream,3.6
+19,Lassi Shop,50, Desserts,3.6
+19,Lassi Shop,50, Shake,3.6
+540,Lassi Shop,200,Beverages,3.3
+540,Lassi Shop,200, Fast Food,3.3
+540,Lassi Shop,200, Burger,3.3
+540,Lassi Shop,200, Shake,3.3
+540,Lassi Shop,200, Juices,3.3
+540,Lassi Shop,200, Ice Cream,3.3
+540,Lassi Shop,200, Desserts,3.3
+540,Lassi Shop,200,Beverages,3.3
+540,Lassi Shop,200, Ice Cream,3.3
+540,Lassi Shop,200, Desserts,3.3
+540,Lassi Shop,200, Shake,3.3
+20,Nandhini Deluxe,50,Andhra,4.1
+20,Nandhini Deluxe,50, Biryani,4.1
+20,Nandhini Deluxe,50, South Indian,4.1
+20,Nandhini Deluxe,50, North Indian,4.1
+20,Nandhini Deluxe,50, Chinese,4.1
+20,Nandhini Deluxe,50, Mughlai,4.1
+20,Nandhini Deluxe,50, Desserts,4.1
+20,Nandhini Deluxe,50, Beverages,4.1
+21,Pizza Hut,200,Pizza,3.8
+21,Pizza Hut,200, Fast Food,3.8
+21,Pizza Hut,200, Desserts,3.8
+21,Pizza Hut,200, Beverages,3.8
+22,Burger King,200,Burger,4.2
+22,Burger King,200, Fast Food,4.2
+22,Burger King,200, Beverages,4.2
+22,Burger King,200, Desserts,4.2
+23,Meghana Foods,200,Biryani,4.2
+23,Meghana Foods,200, Andhra,4.2
+23,Meghana Foods,200, North Indian,4.2
+23,Meghana Foods,200, Seafood,4.2
+24,Onesta,200,Pizza,3.6
+24,Onesta,200, Pasta,3.6
+24,Onesta,200, Fast Food,3.6
+24,Onesta,200, Sandwich,3.6
+24,Onesta,200, Beverages,3.6
+24,Onesta,200, Desserts,3.6
+25,Al-Bek,200,Mughlai,4
+25,Al-Bek,200, Arabian,4
+25,Al-Bek,200, North Indian,4
+25,Al-Bek,200, Chinese,4
+25,Al-Bek,200, Seafood,4
+26,Polar Bear,200,Ice Cream,4.3
+26,Polar Bear,200, Beverages,4.3
+26,Polar Bear,200, Shake,4.3
+27,Nandhana Palace,200,Biryani,4
+27,Nandhana Palace,200, Andhra,4
+27,Nandhana Palace,200, North Indian,4
+27,Nandhana Palace,200, Chinese,4
+27,Nandhana Palace,200, Mughlai,4
+27,Nandhana Palace,200, South Indian,4
+27,Nandhana Palace,200, Desserts,4
+27,Nandhana Palace,200, Beverages,4
+28,Corner House Ice Creams,200,Ice Cream,4.5
+28,Corner House Ice Creams,200, Desserts,4.5
+28,Corner House Ice Creams,200, Shake,4.5
+29,Goli Vada Pav No. 1,200,Street Food,4.1
+29,Goli Vada Pav No. 1,200, Burger,4.1
+29,Goli Vada Pav No. 1,200, Fast Food,4.1
+29,Goli Vada Pav No. 1,200, Ice Cream,4.1
+30,CakeZone,200,Bakery,4.1
+30,CakeZone,200, Ice Cream,4.1
+31,La Pino'z Pizza,200,Pizza,3.8
+31,La Pino'z Pizza,200, Italian,3.8
+32,Anand Sweets And Savouries,200,Mithai,4.3
+32,Anand Sweets And Savouries,200, Street Food,4.3
+32,Anand Sweets And Savouries,200, Beverages,4.3
+32,Anand Sweets And Savouries,200, Desserts,4.3
+33,Faasos - Wraps & Rolls,150,Rolls,4
+33,Faasos - Wraps & Rolls,150, Wraps,4
+33,Faasos - Wraps & Rolls,150, Fast Food,4
+34,Ovenstory Pizza,150,Pizza,4
+34,Ovenstory Pizza,150, Fast Food,4
+35,Wendy's,150,Burger,3.7
+35,Wendy's,150, Fast Food,3.7
+35,Wendy's,150, American,3.7
+36,EasyBites by Empire,150,Burger,3.7
+36,EasyBites by Empire,150, Fast Food,3.7
+36,EasyBites by Empire,150, Beverages,3.7
+37,EatFit,150,Healthy Food,4.1
+37,EatFit,150, North Indian,4.1
+37,EatFit,150, Pizza,4.1
+37,EatFit,150, Burger,4.1
+37,EatFit,150, Pasta,4.1
+37,EatFit,150, Biryani,4.1
+37,EatFit,150, Chinese,4.1
+37,EatFit,150, Beverages,4.1
+38,Kwalitywall's Frozen Dessert And Ice Cream Shop,150,Ice Cream,4.6
+38,Kwalitywall's Frozen Dessert And Ice Cream Shop,150, Desserts,4.6
+39,California Burrito,150,Mexican,4.1
+39,California Burrito,150, Fast Food,4.1
+39,California Burrito,150, Beverages,4.1
+40,Natural Ice Cream,150,Ice Cream,4.5
+40,Natural Ice Cream,150, Beverages,4.5
+41,Chai Point,150,Tea,4.1
+41,Chai Point,150, Beverages,4.1
+41,Chai Point,150, Shake,4.1
+41,Chai Point,150, Fast Food,4.1
+41,Chai Point,150, Rolls,4.1
+41,Chai Point,150, Desserts,4.1
+41,Chai Point,150, Coffee,4.1
+42,"Frozen Bottle - Milkshakes, Desserts and Ice Cream",150,Beverages,4.1
+42,"Frozen Bottle - Milkshakes, Desserts and Ice Cream",150, Desserts,4.1
+42,"Frozen Bottle - Milkshakes, Desserts and Ice Cream",150, Ice Cream,4.1
+42,"Frozen Bottle - Milkshakes, Desserts and Ice Cream",150, Waffle,4.1
+42,"Frozen Bottle - Milkshakes, Desserts and Ice Cream",150, Bakery,4.1
+42,"Frozen Bottle - Milkshakes, Desserts and Ice Cream",150, Healthy Food,4.1
+43,Rolls On Wheels,150,North Indian,4.1
+43,Rolls On Wheels,150, Rolls,4.1
+43,Rolls On Wheels,150, Fast Food,4.1
+43,Rolls On Wheels,150,North Indian,4.1
+43,Rolls On Wheels,150, Rolls,4.1
+43,Rolls On Wheels,150, Fast Food,4.1
+557,Rolls On Wheels,200,North Indian,4.2
+557,Rolls On Wheels,200, Rolls,4.2
+557,Rolls On Wheels,200, Fast Food,4.2
+557,Rolls On Wheels,200,North Indian,4.2
+557,Rolls On Wheels,200, Rolls,4.2
+557,Rolls On Wheels,200, Fast Food,4.2
+44,Behrouz Biryani,150,Biryani,4.4
+44,Behrouz Biryani,150, Kebab,4.4
+44,Behrouz Biryani,150, Hyderabadi,4.4
+44,Behrouz Biryani,150, Lucknowi,4.4
+45,Amma's Pastries,50,Bakery,3.8
+45,Amma's Pastries,50,Bakery,3.8
+395,Amma's Pastries,250,Bakery,4
+395,Amma's Pastries,250,Bakery,4
+46,Mani's Dum Biryani,50,Biryani,4.1
+46,Mani's Dum Biryani,50, Kebab,4.1
+47,Sharief Bhai,50,Biryani,4
+47,Sharief Bhai,50, Mughlai,4
+47,Sharief Bhai,50, Kebab,4
+47,Sharief Bhai,50, Afghan,4
+47,Sharief Bhai,50, Street Food,4
+47,Sharief Bhai,50, Beverages,4
+47,Sharief Bhai,50, Desserts,4
+48,Sri Udupi Food Hub,50,South Indian,4
+48,Sri Udupi Food Hub,50, Chinese,4
+49,Imperial Restaurant,50,Mughlai,3.9
+49,Imperial Restaurant,50, North Indian,3.9
+49,Imperial Restaurant,50, Biryani,3.9
+49,Imperial Restaurant,50, Chinese,3.9
+49,Imperial Restaurant,50, Seafood,3.9
+49,Imperial Restaurant,50, Ice Cream,3.9
+49,Imperial Restaurant,50, Desserts,3.9
+49,Imperial Restaurant,50, Beverages,3.9
+50,WarmOven Cake & Desserts,50,Bakery,4
+50,WarmOven Cake & Desserts,50, Desserts,4
+50,WarmOven Cake & Desserts,50, Ice Cream,4
+50,WarmOven Cake & Desserts,50, Shake,4
+51,Paakashala,50,North Indian,4.2
+51,Paakashala,50, Chinese,4.2
+51,Paakashala,50, Biryani,4.2
+51,Paakashala,50, Desserts,4.2
+51,Paakashala,50, Beverages,4.2
+52,Asha Sweet Center,50,Mithai,4.5
+53,Paradise Biryani,50,Biryani,3.8
+53,Paradise Biryani,50, North Indian,3.8
+53,Paradise Biryani,50, Kebab,3.8
+54,Ambur Star Briyani Since 1890,50,Biryani,4.2
+54,Ambur Star Briyani Since 1890,50, Chettinad,4.2
+54,Ambur Star Briyani Since 1890,50, Chinese,4.2
+54,Ambur Star Briyani Since 1890,50, North Indian,4.2
+55,Truffles,50,Burger,4.4
+55,Truffles,50, American,4.4
+55,Truffles,50, Bakery,4.4
+55,Truffles,50, Italian,4.4
+55,Truffles,50, Oriental,4.4
+55,Truffles,50, Continental,4.4
+55,Truffles,50, Beverages,4.4
+55,Truffles,50, Desserts,4.4
+56,Dindigul Thalappakatti,50,Biryani,3.9
+56,Dindigul Thalappakatti,50, North Indian,3.9
+56,Dindigul Thalappakatti,50, South Indian,3.9
+56,Dindigul Thalappakatti,50, Chinese,3.9
+56,Dindigul Thalappakatti,50, Seafood,3.9
+56,Dindigul Thalappakatti,50, Beverages,3.9
+57,Chaayos Chai+Snacks=Relax,200,Tea,4.1
+57,Chaayos Chai+Snacks=Relax,200, Beverages,4.1
+58,The Belgian Waffle Co.,200,Waffle,4.4
+58,The Belgian Waffle Co.,200, Pancake,4.4
+58,The Belgian Waffle Co.,200, Desserts,4.4
+58,The Belgian Waffle Co.,200, Beverages,4.4
+58,The Belgian Waffle Co.,200, Ice Cream,4.4
+59,Chinese Wok,200,Chinese,3.6
+59,Chinese Wok,200, Momos,3.6
+59,Chinese Wok,200, Sichuan,3.6
+60,Glen's Bakehouse,200,Bakery,4.4
+60,Glen's Bakehouse,200, Cafe,4.4
+60,Glen's Bakehouse,200, Italian,4.4
+60,Glen's Bakehouse,200, Continental,4.4
+60,Glen's Bakehouse,200, Fast Food,4.4
+60,Glen's Bakehouse,200, Beverages,4.4
+60,Glen's Bakehouse,200, Desserts,4.4
+61,Krispy Kreme,200,Desserts,4.5
+61,Krispy Kreme,200, Beverages,4.5
+62,Theobroma,200,Bakery,4.3
+62,Theobroma,200, Desserts,4.3
+62,Theobroma,200, Beverages,4.3
+63,Pathaan Sir,200,Rolls,3.8
+63,Pathaan Sir,200, Chinese,3.8
+63,Pathaan Sir,200, Momos,3.8
+64,Roti Ghar,200,North Indian,4.1
+64,Roti Ghar,200, Chinese,4.1
+64,Roti Ghar,200, South Indian,4.1
+64,Roti Ghar,200, Street Food,4.1
+64,Roti Ghar,200, Fast Food,4.1
+64,Roti Ghar,200, Desserts,4.1
+64,Roti Ghar,200, Shake,4.1
+64,Roti Ghar,200, Beverages,4.1
+65,Vijayalakshmi,200,South Indian,4
+65,Vijayalakshmi,200, Chinese,4
+65,Vijayalakshmi,200, North Indian,4
+65,Vijayalakshmi,200, Sichuan,4
+66,Baskin Robbins,200,Ice Cream,4.4
+66,Baskin Robbins,200, Desserts,4.4
+67,Cakewala,200,Bakery,4.3
+67,Cakewala,200, Desserts,4.3
+68,Call Me Chow,200,Chinese,4.2
+68,Call Me Chow,200, Japanese,4.2
+68,Call Me Chow,200, Thai,4.2
+68,Call Me Chow,200, Indonesian,4.2
+68,Call Me Chow,200, Asian,4.2
+70,M.M.A Kabab and Rolls,100,North Indian,3.7
+70,M.M.A Kabab and Rolls,100, Mughlai,3.7
+70,M.M.A Kabab and Rolls,100, Chinese,3.7
+70,M.M.A Kabab and Rolls,100, Kebab,3.7
+70,M.M.A Kabab and Rolls,100, Rolls,3.7
+70,M.M.A Kabab and Rolls,100, Seafood,3.7
+70,M.M.A Kabab and Rolls,100, Arabian,3.7
+70,M.M.A Kabab and Rolls,100, Biryani,3.7
+71,Chaatimes,100,Street Food,3.7
+71,Chaatimes,100, Fast Food,3.7
+72,Starbucks Coffee,100,Cafe,3.8
+72,Starbucks Coffee,100, Beverages,3.8
+72,Starbucks Coffee,100, Desserts,3.8
+73,RNR Biryani - Taste Of 1953,100,Biryani,4.3
+73,RNR Biryani - Taste Of 1953,100, South Indian,4.3
+73,RNR Biryani - Taste Of 1953,100, Desserts,4.3
+73,RNR Biryani - Taste Of 1953,100, Beverages,4.3
+73,RNR Biryani - Taste Of 1953,100, Andhra,4.3
+74,Kaati Zone Rolls and Wraps,100,Rolls,4.1
+74,Kaati Zone Rolls and Wraps,100, Fast Food,4.1
+74,Kaati Zone Rolls and Wraps,100, Beverages,4.1
+74,Kaati Zone Rolls and Wraps,100, Wraps,4.1
+74,Kaati Zone Rolls and Wraps,100, Desserts,4.1
+74,Kaati Zone Rolls and Wraps,100, Shake,4.1
+75,Punjabi Nawabi,100,North Indian,3.7
+75,Punjabi Nawabi,100, Biryani,3.7
+75,Punjabi Nawabi,100, Mughlai,3.7
+75,Punjabi Nawabi,100, Chinese,3.7
+75,Punjabi Nawabi,100, Kebab,3.7
+76,Shree Mahalakshmi Sweets,100,Mithai,4.2
+76,Shree Mahalakshmi Sweets,100, Street Food,4.2
+77,BOX8 - Desi Meals,100,North Indian,4.3
+77,BOX8 - Desi Meals,100, Wraps,4.3
+77,BOX8 - Desi Meals,100, Fast Food,4.3
+77,BOX8 - Desi Meals,100, Biryani,4.3
+77,BOX8 - Desi Meals,100, Desserts,4.3
+77,BOX8 - Desi Meals,100, Beverages,4.3
+78,Chaat Street,100,Street Food,4
+78,Chaat Street,100, Fast Food,4
+78,Chaat Street,100, North Indian,4
+78,Chaat Street,100, Beverages,4
+79,Smoor,100,Cafe,4
+79,Smoor,100, Fast Food,4
+79,Smoor,100, Salad,4
+79,Smoor,100, Desserts,4
+79,Smoor,100, Beverages,4
+80,Madeena Hotel,100,Biryani,4
+80,Madeena Hotel,100, Kebab,4
+80,Madeena Hotel,100, North Indian,4
+81,Taco Bell,150,Mexican,4
+81,Taco Bell,150, Fast Food,4
+81,Taco Bell,150, Wraps,4
+81,Taco Bell,150, Beverages,4
+82,Sri Udupi Park,150,South Indian,4
+82,Sri Udupi Park,150, North Indian,4
+82,Sri Udupi Park,150, Chinese,4
+82,Sri Udupi Park,150, Street Food,4
+82,Sri Udupi Park,150, Beverages,4
+82,Sri Udupi Park,150, Ice Cream,4
+82,Sri Udupi Park,150, Shake,4
+83,Meat And Eat,150,Burger,4
+83,Meat And Eat,150, Sandwich,4
+83,Meat And Eat,150, Fast Food,4
+83,Meat And Eat,150, Wraps,4
+83,Meat And Eat,150, Biryani,4
+83,Meat And Eat,150, Beverages,4
+83,Meat And Eat,150, Desserts,4
+84,Zomoz - The Momo Company,150,Momos,3.9
+84,Zomoz - The Momo Company,150, Fast Food,3.9
+85,Mad Over Donuts,150,Desserts,4.1
+85,Mad Over Donuts,150, Waffle,4.1
+85,Mad Over Donuts,150, Beverages,4.1
+86,The Pizza Bakery - Brew & Eatery,150,Pizza,4.1
+86,The Pizza Bakery - Brew & Eatery,150, Pasta,4.1
+86,The Pizza Bakery - Brew & Eatery,150, Italian,4.1
+86,The Pizza Bakery - Brew & Eatery,150, Desserts,4.1
+86,The Pizza Bakery - Brew & Eatery,150, Continental,4.1
+86,The Pizza Bakery - Brew & Eatery,150, Beverages,4.1
+87,Sandwich Guru,150,Sandwich,4.1
+87,Sandwich Guru,150, Fast Food,4.1
+87,Sandwich Guru,150, Beverages,4.1
+87,Sandwich Guru,150, Shake,4.1
+88,Biryani Trip - Destination Hyderabad,150,Biryani,4.3
+88,Biryani Trip - Destination Hyderabad,150, Mughlai,4.3
+88,Biryani Trip - Destination Hyderabad,150, Hyderabadi,4.3
+89,Potful - Claypot Biryanis,150,Biryani,4.2
+89,Potful - Claypot Biryanis,150, Kebab,4.2
+89,Potful - Claypot Biryanis,150, Mughlai,4.2
+89,Potful - Claypot Biryanis,150, North Indian,4.2
+89,Potful - Claypot Biryanis,150, Desserts,4.2
+90,Meghduth Biryanis,150,Biryani,3.7
+90,Meghduth Biryanis,150, South Indian,3.7
+91,T’s 21 Spice Biryani,150,Biryani,4
+91,T’s 21 Spice Biryani,150, Andhra,4
+91,T’s 21 Spice Biryani,150,Biryani,4
+91,T’s 21 Spice Biryani,150, Andhra,4
+558,T’s 21 Spice Biryani,200,Biryani,4
+558,T’s 21 Spice Biryani,200, Andhra,4
+558,T’s 21 Spice Biryani,200,Biryani,4
+558,T’s 21 Spice Biryani,200, Andhra,4
+92,Sangam Sweets,150,Mithai,4.4
+92,Sangam Sweets,150, Street Food,4.4
+92,Sangam Sweets,150, Fast Food,4.4
+93,IDC Kitchen,100,South Indian,4.1
+93,IDC Kitchen,100, Beverages,4.1
+94,Juice Junction,100,Juices,4.2
+94,Juice Junction,100, Beverages,4.2
+94,Juice Junction,100, Sandwich,4.2
+94,Juice Junction,100, Fast Food,4.2
+94,Juice Junction,100, Shake,4.2
+94,Juice Junction,100, Rolls,4.2
+94,Juice Junction,100, Healthy Food,4.2
+94,Juice Junction,100, Street Food,4.2
+94,Juice Junction,100,Beverages,4.2
+94,Juice Junction,100, Juices,4.2
+94,Juice Junction,100, Fast Food,4.2
+94,Juice Junction,100, Shake,4.2
+314,Juice Junction,150,Juices,4.2
+314,Juice Junction,150, Beverages,4.2
+314,Juice Junction,150, Sandwich,4.2
+314,Juice Junction,150, Fast Food,4.2
+314,Juice Junction,150, Shake,4.2
+314,Juice Junction,150, Rolls,4.2
+314,Juice Junction,150, Healthy Food,4.2
+314,Juice Junction,150, Street Food,4.2
+314,Juice Junction,150,Beverages,4.2
+314,Juice Junction,150, Juices,4.2
+314,Juice Junction,150, Fast Food,4.2
+314,Juice Junction,150, Shake,4.2
+95,WOW! China,100,Chinese,3.9
+95,WOW! China,100, Rolls,3.9
+95,WOW! China,100, Seafood,3.9
+95,WOW! China,100, Desserts,3.9
+95,WOW! China,100, Shake,3.9
+95,WOW! China,100, Sichuan,3.9
+95,WOW! China,100,Chinese,3.9
+95,WOW! China,100, Asian,3.9
+95,WOW! China,100, Sichuan,3.9
+392,WOW! China,150,Chinese,3.8
+392,WOW! China,150, Rolls,3.8
+392,WOW! China,150, Seafood,3.8
+392,WOW! China,150, Desserts,3.8
+392,WOW! China,150, Shake,3.8
+392,WOW! China,150, Sichuan,3.8
+392,WOW! China,150,Chinese,3.8
+392,WOW! China,150, Asian,3.8
+392,WOW! China,150, Sichuan,3.8
+96,Anjappar,100,South Indian,4
+96,Anjappar,100, Chettinad,4
+96,Anjappar,100, Biryani,4
+96,Anjappar,100, Seafood,4
+96,Anjappar,100, Chinese,4
+96,Anjappar,100, North Indian,4
+96,Anjappar,100, Desserts,4
+96,Anjappar,100, Beverages,4
+97,Biryani By Kilo,100,Biryani,4.2
+97,Biryani By Kilo,100, Hyderabadi,4.2
+97,Biryani By Kilo,100, North Indian,4.2
+97,Biryani By Kilo,100, Kebab,4.2
+97,Biryani By Kilo,100, Mughlai,4.2
+97,Biryani By Kilo,100, Desserts,4.2
+98,Biggies Burger,100,Fast Food,4.1
+98,Biggies Burger,100, Burger,4.1
+98,Biggies Burger,100, Beverages,4.1
+99,Biryani Blues,100,Biryani,4.1
+99,Biryani Blues,100, Kebab,4.1
+99,Biryani Blues,100, Hyderabadi,4.1
+100,Third Wave Coffee,100,Cafe,4.2
+100,Third Wave Coffee,100, Coffee,4.2
+100,Third Wave Coffee,100, Fast Food,4.2
+100,Third Wave Coffee,100, Beverages,4.2
+101,Keventers - Milkshakes & Desserts,100,Shake,4.3
+101,Keventers - Milkshakes & Desserts,100, Beverages,4.3
+101,Keventers - Milkshakes & Desserts,100, Ice Cream,4.3
+102,Great Indian Khichdi by EatFit,100,Healthy Food,4.1
+102,Great Indian Khichdi by EatFit,100, North Indian,4.1
+102,Great Indian Khichdi by EatFit,100, Ice Cream,4.1
+102,Great Indian Khichdi by EatFit,100, Desserts,4.1
+102,Great Indian Khichdi by EatFit,100, Beverages,4.1
+103,NH1 Bowls - Highway To North,100,North Indian,4.3
+103,NH1 Bowls - Highway To North,100, Biryani,4.3
+103,NH1 Bowls - Highway To North,100, Desserts,4.3
+104,Cafe Coffee Day,100,Cafe,3.8
+104,Cafe Coffee Day,100, Fast Food,3.8
+104,Cafe Coffee Day,100, Coffee,3.8
+104,Cafe Coffee Day,100, Beverages,3.8
+104,Cafe Coffee Day,100, Desserts,3.8
+105,Madurai Idly Shop,100,South Indian,3.8
+106,Big Bowl Company,100,North Indian,3.7
+106,Big Bowl Company,100, Chinese,3.7
+106,Big Bowl Company,100, Biryani,3.7
+106,Big Bowl Company,100, Fast Food,3.7
+106,Big Bowl Company,100, Momos,3.7
+106,Big Bowl Company,100, Sichuan,3.7
+107,Karnataka Bhel House,100,Street Food,4.4
+107,Karnataka Bhel House,100, Ice Cream,4.4
+108,Barbeque Nation,100,Street Food,3.8
+108,Barbeque Nation,100, Mughlai,3.8
+108,Barbeque Nation,100, Biryani,3.8
+108,Barbeque Nation,100, North Indian,3.8
+108,Barbeque Nation,100, Desserts,3.8
+108,Barbeque Nation,100, Beverages,3.8
+108,Barbeque Nation,100, Bar Food,3.8
+109,Sardarji Londonwaley,100,North Indian,3.7
+109,Sardarji Londonwaley,100, Chinese,3.7
+109,Sardarji Londonwaley,100, Mughlai,3.7
+110,Chowman,100,Chinese,4.1
+110,Chowman,100, Asian,4.1
+110,Chowman,100, Thai,4.1
+110,Chowman,100, Oriental,4.1
+110,Chowman,100, Seafood,4.1
+110,Chowman,100, Sichuan,4.1
+110,Chowman,100, Beverages,4.1
+110,Chowman,100, Desserts,4.1
+111,New Udupi Grand,100,South Indian,3.9
+111,New Udupi Grand,100, North Indian,3.9
+111,New Udupi Grand,100, Street Food,3.9
+111,New Udupi Grand,100, Beverages,3.9
+111,New Udupi Grand,100, Chinese,3.9
+111,New Udupi Grand,100, Shake,3.9
+112,The Dessert Heaven - Pure Veg,100,Desserts,4.3
+112,The Dessert Heaven - Pure Veg,100, Bakery,4.3
+113,Savoury Restaurant,100,Arabian,4
+113,Savoury Restaurant,100, North Indian,4
+113,Savoury Restaurant,100, Chinese,4
+113,Savoury Restaurant,100, Seafood,4
+113,Savoury Restaurant,100, Fast Food,4
+113,Savoury Restaurant,100, Lebanese,4
+113,Savoury Restaurant,100, Beverages,4
+113,Savoury Restaurant,100, Desserts,4
+114,FB Cakes,100,Bakery,3.9
+114,FB Cakes,100, Desserts,3.9
+115,Aubree,100,Bakery,4.3
+115,Aubree,100, Fast Food,4.3
+115,Aubree,100, Italian,4.3
+115,Aubree,100, Thai,4.3
+115,Aubree,100, Desserts,4.3
+116,Just Bake,100,Bakery,4.2
+117,Cream Stone Ice Cream,150,Ice Cream,4.1
+117,Cream Stone Ice Cream,150, Desserts,4.1
+117,Cream Stone Ice Cream,150, Beverages,4.1
+117,Cream Stone Ice Cream,150, Shake,4.1
+118,Puliyogare Point,150,South Indian,4.3
+118,Puliyogare Point,150, Desserts,4.3
+119,LunchBox - Meals and Thalis,150,North Indian,4.1
+120,ibaco,150,Ice Cream,4.7
+120,ibaco,150, Bakery,4.7
+120,ibaco,150, Desserts,4.7
+121,Ambur Biryani Point,150,Biryani,4.2
+121,Ambur Biryani Point,150, Fast Food,4.2
+122,Natraj Chole Bhature,150,North Indian,4.1
+123,Rotti Walla,150,North Indian,3.9
+123,Rotti Walla,150, South Indian,3.9
+123,Rotti Walla,150, Chinese,3.9
+123,Rotti Walla,150, Mughlai,3.9
+123,Rotti Walla,150, Biryani,3.9
+123,Rotti Walla,150, Fast Food,3.9
+123,Rotti Walla,150, Beverages,3.9
+123,Rotti Walla,150, Desserts,3.9
+124,Calicut Cafe Restaurant,150,Kerala,3.4
+124,Calicut Cafe Restaurant,150, South Indian,3.4
+124,Calicut Cafe Restaurant,150, Biryani,3.4
+124,Calicut Cafe Restaurant,150, Chinese,3.4
+124,Calicut Cafe Restaurant,150, Juices,3.4
+124,Calicut Cafe Restaurant,150, Beverages,3.4
+124,Calicut Cafe Restaurant,150, Shake,3.4
+124,Calicut Cafe Restaurant,150, Sichuan,3.4
+125,Yumlane Pizza,150,Pizza,3.5
+125,Yumlane Pizza,150, Fast Food,3.5
+125,Yumlane Pizza,150, Desserts,3.5
+125,Yumlane Pizza,150, Beverages,3.5
+126,New Krishna Sagar,150,South Indian,3.7
+126,New Krishna Sagar,150, North Indian,3.7
+126,New Krishna Sagar,150, Chinese,3.7
+126,New Krishna Sagar,150, Beverages,3.7
+127,Just Shawarma,150,Lebanese,4
+127,Just Shawarma,150, Fast Food,4
+127,Just Shawarma,150, Beverages,4
+128,Momo Zone - The Momo Company,150,Chinese,4
+128,Momo Zone - The Momo Company,150, Tibetan,4
+129,Sreeraj Lassi Bar,100,Beverages,4.1
+129,Sreeraj Lassi Bar,100, Shake,4.1
+129,Sreeraj Lassi Bar,100, Ice Cream,4.1
+129,Sreeraj Lassi Bar,100, Desserts,4.1
+130,Sweet Truth - Cake and Desserts,100,Desserts,3.6
+130,Sweet Truth - Cake and Desserts,100, Bakery,3.6
+131,The Good Bowl,100,North Indian,4.3
+131,The Good Bowl,100, Pasta,4.3
+131,The Good Bowl,100, Italian,4.3
+132,Upahara Darshini,100,South Indian,4.1
+132,Upahara Darshini,100, North Indian,4.1
+132,Upahara Darshini,100, Fast Food,4.1
+132,Upahara Darshini,100, Street Food,4.1
+132,Upahara Darshini,100, Ice Cream,4.1
+132,Upahara Darshini,100, Beverages,4.1
+132,Upahara Darshini,100, Chinese,4.1
+132,Upahara Darshini,100,North Indian,4.1
+132,Upahara Darshini,100, Chinese,4.1
+132,Upahara Darshini,100, Beverages,4.1
+132,Upahara Darshini,100, Juices,4.1
+132,Upahara Darshini,100, Ice Cream,4.1
+432,Upahara Darshini,150,South Indian,4.1
+432,Upahara Darshini,150, North Indian,4.1
+432,Upahara Darshini,150, Fast Food,4.1
+432,Upahara Darshini,150, Street Food,4.1
+432,Upahara Darshini,150, Ice Cream,4.1
+432,Upahara Darshini,150, Beverages,4.1
+432,Upahara Darshini,150, Chinese,4.1
+432,Upahara Darshini,150,North Indian,4.1
+432,Upahara Darshini,150, Chinese,4.1
+432,Upahara Darshini,150, Beverages,4.1
+432,Upahara Darshini,150, Juices,4.1
+432,Upahara Darshini,150, Ice Cream,4.1
+133,SLAY Coffee,100,Coffee,4.2
+134,Sri Venkateshwara Sweet Meat Stall,100,Mithai,4.3
+134,Sri Venkateshwara Sweet Meat Stall,100, Street Food,4.3
+134,Sri Venkateshwara Sweet Meat Stall,100, Desserts,4.3
+134,Sri Venkateshwara Sweet Meat Stall,100, Beverages,4.3
+135,The Cake Deluxe,100,Bakery,4
+136,The Thick Shake Factory,100,Ice Cream,3.9
+136,The Thick Shake Factory,100, Shake,3.9
+136,The Thick Shake Factory,100, Desserts,3.9
+136,The Thick Shake Factory,100, Tea,3.9
+136,The Thick Shake Factory,100, Beverages,3.9
+137,Bake and Juice,100,Arabian,3.8
+137,Bake and Juice,100, Sandwich,3.8
+137,Bake and Juice,100, Burger,3.8
+137,Bake and Juice,100, Biryani,3.8
+137,Bake and Juice,100, Lebanese,3.8
+137,Bake and Juice,100, Beverages,3.8
+137,Bake and Juice,100, Juices,3.8
+137,Bake and Juice,100, Shake,3.8
+138,Ghee And Turmeric,100,North Indian,4
+139,Melting Cheese,100,Pizza,3.6
+139,Melting Cheese,100, Sandwich,3.6
+139,Melting Cheese,100, Fast Food,3.6
+139,Melting Cheese,100, Street Food,3.6
+140,Gopaljee Cafe,100,Street Food,4.1
+140,Gopaljee Cafe,100, North Indian,4.1
+140,Gopaljee Cafe,100, Beverages,4.1
+141,Bucket Biryani,450,North Indian,4
+141,Bucket Biryani,450, Biryani,4
+141,Bucket Biryani,450, Chinese,4
+141,Bucket Biryani,450, Mughlai,4
+142,Rooftop Cafe,450,Pizza,3.6
+142,Rooftop Cafe,450, Fast Food,3.6
+142,Rooftop Cafe,450, Chinese,3.6
+142,Rooftop Cafe,450, Coffee,3.6
+142,Rooftop Cafe,450, Beverages,3.6
+143,Toscano,450,Italian,3.9
+143,Toscano,450, Pizza,3.9
+143,Toscano,450, Salad,3.9
+143,Toscano,450, Continental,3.9
+143,Toscano,450, Desserts,3.9
+143,Toscano,450, Beverages,3.9
+143,Toscano,450, Seafood,3.9
+144,Mealful Rolls - India's Biggest Rolls,450,Rolls,4
+144,Mealful Rolls - India's Biggest Rolls,450, Fast Food,4
+144,Mealful Rolls - India's Biggest Rolls,450, North Indian,4
+144,Mealful Rolls - India's Biggest Rolls,450, Desserts,4
+144,Mealful Rolls - India's Biggest Rolls,450, Beverages,4
+145,ZAZA 22 Spice Awadhi Biryani,450,Biryani,4
+145,ZAZA 22 Spice Awadhi Biryani,450, Mughlai,4
+145,ZAZA 22 Spice Awadhi Biryani,450, North Indian,4
+146,Apsara Ice Creams,450,Ice Cream,4.7
+146,Apsara Ice Creams,450, Desserts,4.7
+147,Brew Cafe,450,Fast Food,4
+147,Brew Cafe,450, Momos,4
+147,Brew Cafe,450, Ice Cream,4
+147,Brew Cafe,450, Desserts,4
+147,Brew Cafe,450, Juices,4
+147,Brew Cafe,450, Beverages,4
+147,Brew Cafe,450, Sichuan,4
+148,Bhartiya Jalpan,450,North Indian,3.9
+148,Bhartiya Jalpan,450, Street Food,3.9
+148,Bhartiya Jalpan,450, Rajasthani,3.9
+148,Bhartiya Jalpan,450, Bengali,3.9
+148,Bhartiya Jalpan,450, Mithai,3.9
+148,Bhartiya Jalpan,450, Beverages,3.9
+148,Bhartiya Jalpan,450, Desserts,3.9
+149,Belgian Waffle Factory,450,Desserts,4.2
+149,Belgian Waffle Factory,450, Waffle,4.2
+150,Kunafa World,450,Desserts,4.4
+151,Magnolia Bakery,450,Bakery,4.4
+151,Magnolia Bakery,450, Desserts,4.4
+152,Indiana Burgers,450,Burger,4.1
+152,Indiana Burgers,450, Rolls,4.1
+152,Indiana Burgers,450, Beverages,4.1
+152,Indiana Burgers,450, Desserts,4.1
+152,Indiana Burgers,450, Shake,4.1
+153,Daily Sushi,400,Japanese,3.9
+153,Daily Sushi,400, Korean,3.9
+153,Daily Sushi,400, Sushi,3.9
+153,Daily Sushi,400, Asian,3.9
+154,Empire Juices And Ice Creams,400,Juices,4.3
+154,Empire Juices And Ice Creams,400, Beverages,4.3
+154,Empire Juices And Ice Creams,400, Shake,4.3
+154,Empire Juices And Ice Creams,400, Ice Cream,4.3
+155,Firangi Bake,400,Italian,3.7
+155,Firangi Bake,400, Mexican,3.7
+156,KC Das,400,Mithai,3.8
+156,KC Das,400, Street Food,3.8
+156,KC Das,400, Mishti,3.8
+156,KC Das,400, Bengali,3.8
+156,KC Das,400,Mithai,3.8
+156,KC Das,400, Street Food,3.8
+338,KC Das,150,Mithai,3.5
+338,KC Das,150, Street Food,3.5
+338,KC Das,150, Mishti,3.5
+338,KC Das,150, Bengali,3.5
+338,KC Das,150,Mithai,3.5
+338,KC Das,150, Street Food,3.5
+157,Rolls Kitchen,400,Rolls,4.2
+157,Rolls Kitchen,400, Fast Food,4.2
+157,Rolls Kitchen,400, Beverages,4.2
+158,Swiss Cream,400,Ice Cream,3.9
+158,Swiss Cream,400, Waffle,3.9
+158,Swiss Cream,400, Desserts,3.9
+158,Swiss Cream,400, Sandwich,3.9
+158,Swiss Cream,400, Shake,3.9
+158,Swiss Cream,400, Beverages,3.9
+159,LeanCrust Pizza- ThinCrust Experts,400,Pizza,4
+159,LeanCrust Pizza- ThinCrust Experts,400, Fast Food,4
+159,LeanCrust Pizza- ThinCrust Experts,400, Beverages,4
+160,Kulfi Shulfi- Kulfis and Ice Cream,400,Ice Cream,4.6
+160,Kulfi Shulfi- Kulfis and Ice Cream,400, Desserts,4.6
+161,Brik Oven,400,Cafe,4.1
+161,Brik Oven,400, Italian,4.1
+161,Brik Oven,400, Fast Food,4.1
+161,Brik Oven,400, Beverages,4.1
+161,Brik Oven,400, Waffle,4.1
+161,Brik Oven,400, Desserts,4.1
+162,Sweet Chariot,400,Bakery,4
+162,Sweet Chariot,400, Desserts,4
+163,Hotel Fanoos,400,Rolls,4.3
+163,Hotel Fanoos,400, Biryani,4.3
+163,Hotel Fanoos,400, Fast Food,4.3
+163,Hotel Fanoos,400, Arabian,4.3
+164,FB Café By Frozen Bottle,400,Bakery,3.6
+165,Paris Panini - Gourmet Sandwiches,300,French,4.2
+165,Paris Panini - Gourmet Sandwiches,300, Continental,4.2
+165,Paris Panini - Gourmet Sandwiches,300, Sandwich,4.2
+165,Paris Panini - Gourmet Sandwiches,300, Desserts,4.2
+165,Paris Panini - Gourmet Sandwiches,300, Beverages,4.2
+166,Jose Mess,300,Kerala,4
+166,Jose Mess,300, South Indian,4
+166,Jose Mess,300, Biryani,4
+167,Khan Saheb Grills and Rolls,300,North Indian,4
+167,Khan Saheb Grills and Rolls,300, Rolls,4
+167,Khan Saheb Grills and Rolls,300, Kebab,4
+167,Khan Saheb Grills and Rolls,300, Mughlai,4
+167,Khan Saheb Grills and Rolls,300, Biryani,4
+167,Khan Saheb Grills and Rolls,300, Beverages,4
+168,UBQ By Barbeque Nation,300,North Indian,3.6
+168,UBQ By Barbeque Nation,300, BBQ,3.6
+168,UBQ By Barbeque Nation,300, Biryani,3.6
+168,UBQ By Barbeque Nation,300, Kebab,3.6
+169,By 2 Coffee,300,South Indian,4.4
+170,Ambur Hot Dum Biryani,300,Biryani,4.2
+171,The Cake Fancy,300,Bakery,4
+172,Pure Veg Meals by Lunchbox,300,North Indian,3.8
+173,Pasta Street,300,Pasta,4.1
+173,Pasta Street,300, Pizza,4.1
+173,Pasta Street,300, Italian,4.1
+173,Pasta Street,300, European,4.1
+173,Pasta Street,300, Salad,4.1
+173,Pasta Street,300, Desserts,4.1
+173,Pasta Street,300, Beverages,4.1
+174,TrueCakes,300,Bakery,4
+174,TrueCakes,300, Desserts,4
+175,ITC Master Chef Creations,300,North Indian,4.3
+175,ITC Master Chef Creations,300, Biryani,4.3
+175,ITC Master Chef Creations,300, Mughlai,4.3
+175,ITC Master Chef Creations,300, Rolls,4.3
+175,ITC Master Chef Creations,300, Kebab,4.3
+175,ITC Master Chef Creations,300, Desserts,4.3
+175,ITC Master Chef Creations,300, Modern Indian,4.3
+176,Friendly Neighbourhood Pizza - Man,300,Pizza,4.3
+176,Friendly Neighbourhood Pizza - Man,300, Italian,4.3
+176,Friendly Neighbourhood Pizza - Man,300, Ice Cream,4.3
+176,Friendly Neighbourhood Pizza - Man,300, Shake,4.3
+177,XO Belgian Waffle,150,Desserts,4.3
+177,XO Belgian Waffle,150, Beverages,4.3
+177,XO Belgian Waffle,150, Waffle,4.3
+177,XO Belgian Waffle,150, Shake,4.3
+178,Cupcake Bliss Cakes & Desserts,150,Bakery,3.9
+178,Cupcake Bliss Cakes & Desserts,150, Desserts,3.9
+179,The Biryani Life,150,Biryani,3.9
+179,The Biryani Life,150, Kebab,3.9
+179,The Biryani Life,150, Hyderabadi,3.9
+179,The Biryani Life,150, Lucknowi,3.9
+180,Chinese Square,150,Chinese,3.8
+180,Chinese Square,150, Fast Food,3.8
+180,Chinese Square,150, Beverages,3.8
+180,Chinese Square,150, Shake,3.8
+181,Donne Biryani Palace,150,Biryani,
+181,Donne Biryani Palace,150, South Indian,
+181,Donne Biryani Palace,150, North Indian,
+181,Donne Biryani Palace,150, Chinese,
+182,The Dessert Zone,150,Desserts,4.2
+182,The Dessert Zone,150, Bakery,4.2
+183,Just Cakes,150,Bakery,3.9
+183,Just Cakes,150, Desserts,3.9
+184,Snack House,150,Fast Food,3.9
+184,Snack House,150, Momos,3.9
+185,The Momo Co.,150,Chinese,3.5
+185,The Momo Co.,150, Momos,3.5
+185,The Momo Co.,150, Desserts,3.5
+185,The Momo Co.,150, Beverages,3.5
+185,The Momo Co.,150, Sichuan,3.5
+186,Chef Bakers,150,Bakery,4.1
+186,Chef Bakers,150, Fast Food,4.1
+186,Chef Bakers,150, Pizza,4.1
+186,Chef Bakers,150, Sandwich,4.1
+186,Chef Bakers,150, Burger,4.1
+186,Chef Bakers,150, Desserts,4.1
+187,Antarastriya,150,Pizza,3.6
+187,Antarastriya,150, Fast Food,3.6
+187,Antarastriya,150, Chinese,3.6
+187,Antarastriya,150, Beverages,3.6
+187,Antarastriya,150, Shake,3.6
+187,Antarastriya,150, Italian,3.6
+187,Antarastriya,150, Mexican,3.6
+187,Antarastriya,150, Juices,3.6
+188,Auntie Fung's,150,Asian,4
+188,Auntie Fung's,150, Thai,4
+188,Auntie Fung's,150, Vietnamese,4
+188,Auntie Fung's,150, Japanese,4
+188,Auntie Fung's,150, Indonesian,4
+188,Auntie Fung's,150, Chinese,4
+188,Auntie Fung's,150, Korean,4
+188,Auntie Fung's,150, Burmese,4
+189,Sreenivasa Brahmins Bakery,100,Bakery,4.4
+189,Sreenivasa Brahmins Bakery,100, Desserts,4.4
+189,Sreenivasa Brahmins Bakery,100, Fast Food,4.4
+190,Habibi Falafel,100,Arabian,4.1
+190,Habibi Falafel,100, Fast Food,4.1
+190,Habibi Falafel,100, Beverages,4.1
+190,Habibi Falafel,100, Desserts,4.1
+191,Crusto’s - Cheese Burst Pizza,100,Pizza,3.8
+192,New Shanthi Sagar,100,South Indian,3.7
+192,New Shanthi Sagar,100, North Indian,3.7
+192,New Shanthi Sagar,100, Chinese,3.7
+192,New Shanthi Sagar,100, Fast Food,3.7
+192,New Shanthi Sagar,100, Street Food,3.7
+192,New Shanthi Sagar,100, Beverages,3.7
+192,New Shanthi Sagar,100,North Indian,3.7
+192,New Shanthi Sagar,100, Street Food,3.7
+192,New Shanthi Sagar,100, Fast Food,3.7
+192,New Shanthi Sagar,100, South Indian,3.7
+192,New Shanthi Sagar,100, Chinese,3.7
+192,New Shanthi Sagar,100, Ice Cream,3.7
+192,New Shanthi Sagar,100, Shake,3.7
+447,New Shanthi Sagar,150,South Indian,4.1
+447,New Shanthi Sagar,150, North Indian,4.1
+447,New Shanthi Sagar,150, Chinese,4.1
+447,New Shanthi Sagar,150, Fast Food,4.1
+447,New Shanthi Sagar,150, Street Food,4.1
+447,New Shanthi Sagar,150, Beverages,4.1
+447,New Shanthi Sagar,150,North Indian,4.1
+447,New Shanthi Sagar,150, Street Food,4.1
+447,New Shanthi Sagar,150, Fast Food,4.1
+447,New Shanthi Sagar,150, South Indian,4.1
+447,New Shanthi Sagar,150, Chinese,4.1
+447,New Shanthi Sagar,150, Ice Cream,4.1
+447,New Shanthi Sagar,150, Shake,4.1
+193,Gokul Veg,100,North Indian,4
+193,Gokul Veg,100, Chinese,4
+193,Gokul Veg,100, Beverages,4
+193,Gokul Veg,100, Desserts,4
+194,Udupi Aatithya,100,South Indian,4.1
+194,Udupi Aatithya,100, North Indian,4.1
+194,Udupi Aatithya,100, Chinese,4.1
+194,Udupi Aatithya,100, Street Food,4.1
+194,Udupi Aatithya,100, Fast Food,4.1
+194,Udupi Aatithya,100, Beverages,4.1
+194,Udupi Aatithya,100, Desserts,4.1
+195,Singh Da Punjabi Dhaba,100,North Indian,3.6
+195,Singh Da Punjabi Dhaba,100, Biryani,3.6
+196,Zaatar,100,BBQ,3.8
+196,Zaatar,100, Arabian,3.8
+196,Zaatar,100, Biryani,3.8
+196,Zaatar,100, Chinese,3.8
+196,Zaatar,100, North Indian,3.8
+196,Zaatar,100, Mughlai,3.8
+196,Zaatar,100, Desserts,3.8
+196,Zaatar,100, Beverages,3.8
+197,Aligarh House by EatFit,100,Biryani,4
+197,Aligarh House by EatFit,100, North Indian,4
+197,Aligarh House by EatFit,100, Kebab,4
+197,Aligarh House by EatFit,100, Desserts,4
+197,Aligarh House by EatFit,100, Beverages,4
+198,Mumbai Xpress,100,Fast Food,3.8
+198,Mumbai Xpress,100, Chinese,3.8
+198,Mumbai Xpress,100, Street Food,3.8
+198,Mumbai Xpress,100, Beverages,3.8
+198,Mumbai Xpress,100, Sichuan,3.8
+199,NOTO - Healthy Ice Cream,100,Ice Cream,4.3
+199,NOTO - Healthy Ice Cream,100, Mithai,4.3
+199,NOTO - Healthy Ice Cream,100, Desserts,4.3
+200,Tomba Kitchens,100,Naga,4.3
+200,Tomba Kitchens,100, Chinese,4.3
+200,Tomba Kitchens,100, Beverages,4.3
+201,Adiga's,150,South Indian,4
+201,Adiga's,150, North Indian,4
+201,Adiga's,150, Chinese,4
+201,Adiga's,150, Street Food,4
+201,Adiga's,150, Desserts,4
+201,Adiga's,150, Ice Cream,4
+201,Adiga's,150, Beverages,4
+202,Momo Monk,150,Momos,4.1
+203,Lo! - Low Carb And Keto Foods,150,Healthy Food,4
+203,Lo! - Low Carb And Keto Foods,150, North Indian,4
+203,Lo! - Low Carb And Keto Foods,150, Fast Food,4
+203,Lo! - Low Carb And Keto Foods,150, Desserts,4
+204,Keventers Ice Cream,150,Ice Cream,4.4
+204,Keventers Ice Cream,150, Desserts,4.4
+204,Keventers Ice Cream,150, Shake,4.4
+204,Keventers Ice Cream,150, Beverages,4.4
+205,Bombay Kulfi,150,Desserts,
+206,The Tasty Planet,150,Fast Food,4
+206,The Tasty Planet,150, Salad,4
+206,The Tasty Planet,150, Sandwich,4
+206,The Tasty Planet,150, Street Food,4
+206,The Tasty Planet,150, Beverages,4
+206,The Tasty Planet,150, Juices,4
+206,The Tasty Planet,150, Shake,4
+207,Vidyarthi Bhavan,150,South Indian,4.2
+208,AB's - Absolute Barbecues,150,North Indian,3.6
+208,AB's - Absolute Barbecues,150, Mangalorean,3.6
+208,AB's - Absolute Barbecues,150, BBQ,3.6
+208,AB's - Absolute Barbecues,150, Street Food,3.6
+208,AB's - Absolute Barbecues,150, Desserts,3.6
+208,AB's - Absolute Barbecues,150, Salad,3.6
+208,AB's - Absolute Barbecues,150, Beverages,3.6
+209,Nagarjuna Chimney,150,Andhra,4.2
+209,Nagarjuna Chimney,150, Biryani,4.2
+209,Nagarjuna Chimney,150, North Indian,4.2
+209,Nagarjuna Chimney,150, Beverages,4.2
+210,IBC (Indian Biryani Company),150,Biryani,3.7
+210,IBC (Indian Biryani Company),150, North Indian,3.7
+210,IBC (Indian Biryani Company),150, Mughlai,3.7
+211,Mainland China,150,Chinese,3.9
+211,Mainland China,150, Momos,3.9
+211,Mainland China,150, Thai,3.9
+211,Mainland China,150, Asian,3.9
+211,Mainland China,150, Seafood,3.9
+211,Mainland China,150, Sushi,3.9
+211,Mainland China,150, Beverages,3.9
+211,Mainland China,150,Chinese,3.9
+211,Mainland China,150, Asian,3.9
+211,Mainland China,150, Sushi,3.9
+211,Mainland China,150, Momos,3.9
+211,Mainland China,150, Japanese,3.9
+211,Mainland China,150, Thai,3.9
+211,Mainland China,150, Beverages,3.9
+562,Mainland China,200,Chinese,4.2
+562,Mainland China,200, Momos,4.2
+562,Mainland China,200, Thai,4.2
+562,Mainland China,200, Asian,4.2
+562,Mainland China,200, Seafood,4.2
+562,Mainland China,200, Sushi,4.2
+562,Mainland China,200, Beverages,4.2
+562,Mainland China,200,Chinese,4.2
+562,Mainland China,200, Asian,4.2
+562,Mainland China,200, Sushi,4.2
+562,Mainland China,200, Momos,4.2
+562,Mainland China,200, Japanese,4.2
+562,Mainland China,200, Thai,4.2
+562,Mainland China,200, Beverages,4.2
+212,Home Plate by EatFit,150,North Indian,3.6
+212,Home Plate by EatFit,150, Beverages,3.6
+213,Andhra Gunpowder,250,Andhra,4.1
+213,Andhra Gunpowder,250, Biryani,4.1
+213,Andhra Gunpowder,250, South Indian,4.1
+213,Andhra Gunpowder,250, Desserts,4.1
+213,Andhra Gunpowder,250, Beverages,4.1
+213,Andhra Gunpowder,250, Hyderabadi,4.1
+214,Burger Seigneur,250,Cafe,4.2
+214,Burger Seigneur,250, Burger,4.2
+214,Burger Seigneur,250, Continental,4.2
+214,Burger Seigneur,250, Beverages,4.2
+214,Burger Seigneur,250, Desserts,4.2
+215,Maharaja Military Canteen,250,South Indian,3.6
+216,The Pastry House,250,Bakery,4.1
+217,Louis Burger,250,Burger,4.1
+217,Louis Burger,250, Fast Food,4.1
+218,India Sweet House,250,Mithai,4.2
+218,India Sweet House,250, Street Food,4.2
+219,Boss Burger,250,Burger,4.2
+219,Boss Burger,250, Fast Food,4.2
+219,Boss Burger,250, Desserts,4.2
+219,Boss Burger,250, Beverages,4.2
+219,Boss Burger,250, Shake,4.2
+220,BigBites,250,Fast Food,4
+220,BigBites,250, Momos,4
+220,BigBites,250, Street Food,4
+221,Taste Of Tibet,250,Chinese,4
+221,Taste Of Tibet,250, Street Food,4
+221,Taste Of Tibet,250, Momos,4
+221,Taste Of Tibet,250, Sichuan,4
+222,Church Street Social,250,North Indian,4.1
+222,Church Street Social,250, Chinese,4.1
+222,Church Street Social,250, Biryani,4.1
+222,Church Street Social,250, Burger,4.1
+222,Church Street Social,250, Pasta,4.1
+222,Church Street Social,250, Pizza,4.1
+222,Church Street Social,250, Kebab,4.1
+222,Church Street Social,250, Rolls,4.1
+223,Slay Coffee Bar,250,Coffee,4.6
+224,The Taj Hotel,250,North Indian,3.8
+224,The Taj Hotel,250, Chinese,3.8
+224,The Taj Hotel,250, Mughlai,3.8
+224,The Taj Hotel,250, Fast Food,3.8
+224,The Taj Hotel,250, Lebanese,3.8
+224,The Taj Hotel,250, Seafood,3.8
+224,The Taj Hotel,250, Rolls,3.8
+225,Olio - The Wood Fired Pizzeria,300,Pizza,3.6
+225,Olio - The Wood Fired Pizzeria,300, Italian,3.6
+226,Sukh Sagar,300,Chinese,2.9
+226,Sukh Sagar,300, North Indian,2.9
+226,Sukh Sagar,300, Street Food,2.9
+226,Sukh Sagar,300, Ice Cream,2.9
+226,Sukh Sagar,300, Shake,2.9
+226,Sukh Sagar,300, Beverages,2.9
+227,Tenzin Kitchen,300,Tibetan,4.1
+227,Tenzin Kitchen,300, Chinese,4.1
+227,Tenzin Kitchen,300, Sichuan,4.1
+228,Just Bake - Cakes & Confectioners,300,Bakery,3.7
+228,Just Bake - Cakes & Confectioners,300, Desserts,3.7
+229,Kabab Biryani Corner,300,South Indian,3.6
+229,Kabab Biryani Corner,300, Chinese,3.6
+229,Kabab Biryani Corner,300, Rolls,3.6
+229,Kabab Biryani Corner,300, North Indian,3.6
+230,Taato Peero Momos,300,Tibetan,4.5
+230,Taato Peero Momos,300, Momos,4.5
+231,Eat N Drink,300,Fast Food,4.3
+231,Eat N Drink,300, Sandwich,4.3
+231,Eat N Drink,300, Burger,4.3
+231,Eat N Drink,300, Wraps,4.3
+231,Eat N Drink,300, Rolls,4.3
+231,Eat N Drink,300, Shake,4.3
+231,Eat N Drink,300, Juices,4.3
+231,Eat N Drink,300, Beverages,4.3
+232,Shiv Sagar Signature,300,Street Food,4
+232,Shiv Sagar Signature,300, Fast Food,4
+232,Shiv Sagar Signature,300, Continental,4
+232,Shiv Sagar Signature,300, Chinese,4
+232,Shiv Sagar Signature,300, Shake,4
+232,Shiv Sagar Signature,300, Sichuan,4
+233,RollsKing,300,Rolls,4.1
+233,RollsKing,300, Fast Food,4.1
+233,RollsKing,300, North Indian,4.1
+234,Twiststick House,300,Chinese,3.9
+234,Twiststick House,300, Fast Food,3.9
+234,Twiststick House,300, Beverages,3.9
+235,The Red Box,300,Chinese,3.8
+235,The Red Box,300, Thai,3.8
+235,The Red Box,300, Sichuan,3.8
+236,Hotel Revoli Inn,300,Chinese,4
+236,Hotel Revoli Inn,300, North Indian,4
+236,Hotel Revoli Inn,300, Mughlai,4
+237,Sagar,150,North Indian,3.8
+237,Sagar,150, South Indian,3.8
+237,Sagar,150, Fast Food,3.8
+237,Sagar,150, Street Food,3.8
+237,Sagar,150, Chinese,3.8
+237,Sagar,150, Desserts,3.8
+237,Sagar,150, Shake,3.8
+237,Sagar,150, Beverages,3.8
+238,Chicken County Deluxe Restaurant,150,North Indian,4.1
+238,Chicken County Deluxe Restaurant,150, Chinese,4.1
+238,Chicken County Deluxe Restaurant,150, Mughlai,4.1
+238,Chicken County Deluxe Restaurant,150, Seafood,4.1
+238,Chicken County Deluxe Restaurant,150, Fast Food,4.1
+238,Chicken County Deluxe Restaurant,150, Biryani,4.1
+238,Chicken County Deluxe Restaurant,150, Beverages,4.1
+239,Richie Rich,150,Desserts,4.3
+239,Richie Rich,150, Beverages,4.3
+239,Richie Rich,150, Fast Food,4.3
+239,Richie Rich,150, Ice Cream,4.3
+239,Richie Rich,150, Shake,4.3
+240,Punjabi Dhaba,150,North Indian,4.3
+240,Punjabi Dhaba,150, Chinese,4.3
+240,Punjabi Dhaba,150, Mughlai,4.3
+241,Fabelle Chocolates - ITC Gardenia,150,Bakery,4.3
+241,Fabelle Chocolates - ITC Gardenia,150, Desserts,4.3
+241,Fabelle Chocolates - ITC Gardenia,150, Beverages,4.3
+241,Fabelle Chocolates - ITC Gardenia,150, Ice Cream,4.3
+241,Fabelle Chocolates - ITC Gardenia,150, Mithai,4.3
+241,Fabelle Chocolates - ITC Gardenia,150, Juices,4.3
+241,Fabelle Chocolates - ITC Gardenia,150, Bengali,4.3
+242,Itminaan Matka Biryani - Slow Cooked,150,Biryani,3.9
+242,Itminaan Matka Biryani - Slow Cooked,150, North Indian,3.9
+242,Itminaan Matka Biryani - Slow Cooked,150, Desserts,3.9
+243,The Brooklyn Creamery - Healthy Ice Cream,150,Ice Cream,4.1
+243,The Brooklyn Creamery - Healthy Ice Cream,150, Desserts,4.1
+244,Gandhinagar Donne Biriyani,150,Biryani,3.9
+244,Gandhinagar Donne Biriyani,150, North Indian,3.9
+245,Sri Maruthi Gowda's Military Hotel,150,South Indian,4.4
+246,Simpli Namdhari's,150,Asian,3.3
+246,Simpli Namdhari's,150, Fast Food,3.3
+246,Simpli Namdhari's,150, Chinese,3.3
+246,Simpli Namdhari's,150, North Indian,3.3
+246,Simpli Namdhari's,150, Beverages,3.3
+246,Simpli Namdhari's,150, Salad,3.3
+247,Cookie Man,150,Bakery,4.5
+248,Plan B,150,American,4.2
+248,Plan B,150, Continental,4.2
+248,Plan B,150, Bar Food,4.2
+248,Plan B,150, Chinese,4.2
+248,Plan B,150, Fast Food,4.2
+248,Plan B,150, Pizza,4.2
+248,Plan B,150, Burger,4.2
+248,Plan B,150, Beverages,4.2
+249,FreshMenu,250,Continental,3.8
+249,FreshMenu,250, Healthy Food,3.8
+249,FreshMenu,250, Fast Food,3.8
+249,FreshMenu,250, Burger,3.8
+249,FreshMenu,250, Sandwich,3.8
+249,FreshMenu,250, Chinese,3.8
+249,FreshMenu,250, Pasta,3.8
+249,FreshMenu,250, Beverages,3.8
+250,Bakingo,250,Bakery,4.3
+250,Bakingo,250, Desserts,4.3
+251,Chetty's Corner,250,Fast Food,4.2
+251,Chetty's Corner,250, Sandwich,4.2
+251,Chetty's Corner,250, Pizza,4.2
+251,Chetty's Corner,250, Burger,4.2
+251,Chetty's Corner,250, Street Food,4.2
+251,Chetty's Corner,250, Beverages,4.2
+252,Kaapi Katte,250,South Indian,3.7
+252,Kaapi Katte,250, Beverages,3.7
+253,Kailash Parbat,250,North Indian,3.5
+253,Kailash Parbat,250, Street Food,3.5
+253,Kailash Parbat,250, Beverages,3.5
+254,Nomad Pizza - Traveller Series,250,Pizza,4.1
+254,Nomad Pizza - Traveller Series,250, Beverages,4.1
+255,Sree Udupi Grand,250,South Indian,3.7
+255,Sree Udupi Grand,250, North Indian,3.7
+255,Sree Udupi Grand,250, Chinese,3.7
+255,Sree Udupi Grand,250, Beverages,3.7
+255,Sree Udupi Grand,250, Shake,3.7
+256,G 's Chinese Dragon,250,Chinese,3.5
+256,G 's Chinese Dragon,250, Momos,3.5
+257,Milano Ice Cream,250,Desserts,4.4
+257,Milano Ice Cream,250, Ice Cream,4.4
+257,Milano Ice Cream,250, Beverages,4.4
+257,Milano Ice Cream,250, Shake,4.4
+258,Lakeview Milkbar,250,Desserts,4
+258,Lakeview Milkbar,250, Cafe,4
+258,Lakeview Milkbar,250, Fast Food,4
+258,Lakeview Milkbar,250, Sandwich,4
+258,Lakeview Milkbar,250, Burger,4
+258,Lakeview Milkbar,250, Ice Cream,4
+258,Lakeview Milkbar,250, Shake,4
+259,Pai Vihar,250,South Indian,4.2
+259,Pai Vihar,250, Street Food,4.2
+259,Pai Vihar,250, Chinese,4.2
+259,Pai Vihar,250, North Indian,4.2
+259,Pai Vihar,250, Biryani,4.2
+259,Pai Vihar,250, Fast Food,4.2
+259,Pai Vihar,250, Desserts,4.2
+259,Pai Vihar,250, Beverages,4.2
+260,Rajhans,250,North Indian,3.7
+260,Rajhans,250, Chinese,3.7
+260,Rajhans,250, Fast Food,3.7
+260,Rajhans,250, Sichuan,3.7
+260,Rajhans,250, Beverages,3.7
+261,New Taj Darbar,150,North Indian,3.6
+261,New Taj Darbar,150, Chinese,3.6
+261,New Taj Darbar,150, Mughlai,3.6
+261,New Taj Darbar,150, Biryani,3.6
+262,Hamza Hotel,150,North Indian,4.2
+262,Hamza Hotel,150, Chinese,4.2
+262,Hamza Hotel,150, Mughlai,4.2
+262,Hamza Hotel,150, Biryani,4.2
+263,Dawat Durbar,150,Mughlai,3.8
+263,Dawat Durbar,150, North Indian,3.8
+264,Santhanam Sweets & Savouries,150,Mithai,4.4
+264,Santhanam Sweets & Savouries,150, Street Food,4.4
+265,RS Shiv Sagar,150,North Indian,3.8
+265,RS Shiv Sagar,150, South Indian,3.8
+265,RS Shiv Sagar,150, Asian,3.8
+265,RS Shiv Sagar,150, Continental,3.8
+265,RS Shiv Sagar,150, Chinese,3.8
+265,RS Shiv Sagar,150, Beverages,3.8
+265,RS Shiv Sagar,150, Desserts,3.8
+266,Gullu's Chat,150,Fast Food,3.8
+266,Gullu's Chat,150, Street Food,3.8
+266,Gullu's Chat,150, Sandwich,3.8
+266,Gullu's Chat,150, Pizza,3.8
+266,Gullu's Chat,150, Desserts,3.8
+266,Gullu's Chat,150, Beverages,3.8
+267,Burger It Up,150,Burger,4
+267,Burger It Up,150, Beverages,4
+267,Burger It Up,150, Desserts,4
+267,Burger It Up,150, American,4
+267,Burger It Up,150, Cafe,4
+268,Chai Days,150,Beverages,4.2
+268,Chai Days,150, Fast Food,4.2
+268,Chai Days,150, Street Food,4.2
+268,Chai Days,150, Tea,4.2
+269,Big Bang Pizza,150,Pizza,3.7
+269,Big Bang Pizza,150, Fast Food,3.7
+269,Big Bang Pizza,150, Burger,3.7
+269,Big Bang Pizza,150, Beverages,3.7
+270,No Sugar Please!,150,Beverages,4.4
+270,No Sugar Please!,150, Juices,4.4
+270,No Sugar Please!,150, Healthy Food,4.4
+271,The Bangalore Creamery,150,Ice Cream,4.2
+271,The Bangalore Creamery,150, Desserts,4.2
+271,The Bangalore Creamery,150, Beverages,4.2
+271,The Bangalore Creamery,150, Shake,4.2
+271,The Bangalore Creamery,150, Waffle,4.2
+272,Mini Samrat Chalukya,150,South Indian,3.9
+272,Mini Samrat Chalukya,150, North Indian,3.9
+272,Mini Samrat Chalukya,150, Chinese,3.9
+273,Art of Delight,150,Ice Cream,4.2
+273,Art of Delight,150, Desserts,4.2
+273,Art of Delight,150, Waffle,4.2
+273,Art of Delight,150, Beverages,4.2
+274,Kouzina Kafe - The Food Court,150,Fast Food,2.7
+274,Kouzina Kafe - The Food Court,150, Bakery,2.7
+274,Kouzina Kafe - The Food Court,150, Desserts,2.7
+275,Step Right Up,150,Street Food,3.6
+275,Step Right Up,150, Fast Food,3.6
+275,Step Right Up,150, Chinese,3.6
+275,Step Right Up,150, Beverages,3.6
+275,Step Right Up,150, Burger,3.6
+275,Step Right Up,150, Pizza,3.6
+275,Step Right Up,150, Pasta,3.6
+275,Step Right Up,150, Sandwich,3.6
+276,Nirula's,150,Ice Cream,3.7
+277,Bhagathram Sweets,150,Mithai,3.7
+277,Bhagathram Sweets,150, North Indian,3.7
+277,Bhagathram Sweets,150, Fast Food,3.7
+277,Bhagathram Sweets,150, Street Food,3.7
+277,Bhagathram Sweets,150, Beverages,3.7
+278,Yak's Kitchen,150,Tibetan,4.2
+278,Yak's Kitchen,150, Sushi,4.2
+278,Yak's Kitchen,150, Chinese,4.2
+278,Yak's Kitchen,150, Beverages,4.2
+279,1522 - The Pub,150,Chinese,4.3
+279,1522 - The Pub,150, North Indian,4.3
+279,1522 - The Pub,150, Continental,4.3
+279,1522 - The Pub,150, Finger Food,4.3
+279,1522 - The Pub,150, Seafood,4.3
+279,1522 - The Pub,150, Beverages,4.3
+280,Smoke House Deli,150,Italian,4.1
+280,Smoke House Deli,150, Pasta,4.1
+280,Smoke House Deli,150, Burger,4.1
+280,Smoke House Deli,150, Salad,4.1
+280,Smoke House Deli,150, Sandwich,4.1
+280,Smoke House Deli,150, Healthy Food,4.1
+280,Smoke House Deli,150, Continental,4.1
+281,Go Native,150,Healthy Food,4.4
+281,Go Native,150, North Indian,4.4
+281,Go Native,150, South Indian,4.4
+281,Go Native,150, Fast Food,4.4
+281,Go Native,150, Beverages,4.4
+281,Go Native,150, Desserts,4.4
+282,Bake N Bloom,150,Bakery,4.3
+282,Bake N Bloom,150, Desserts,4.3
+283,Choi Choi Momos,150,Chinese,4
+283,Choi Choi Momos,150, Sichuan,4
+284,Chikkanna Tiffin Room,150,South Indian,4.3
+284,Chikkanna Tiffin Room,150,South Indian,4.3
+595,Chikkanna Tiffin Room,150,South Indian,3.9
+595,Chikkanna Tiffin Room,150,South Indian,3.9
+285,Salt - Indian Restaurant Bar & Grill,450,North Indian,3.9
+285,Salt - Indian Restaurant Bar & Grill,450, BBQ,3.9
+285,Salt - Indian Restaurant Bar & Grill,450, Biryani,3.9
+285,Salt - Indian Restaurant Bar & Grill,450, Mughlai,3.9
+285,Salt - Indian Restaurant Bar & Grill,450, Seafood,3.9
+285,Salt - Indian Restaurant Bar & Grill,450, Beverages,3.9
+285,Salt - Indian Restaurant Bar & Grill,450, Desserts,3.9
+286,HomeSe Just Veg,450,South Indian,3.9
+286,HomeSe Just Veg,450, North Indian,3.9
+287,Hotel Green Tara,450,Chinese,4.3
+287,Hotel Green Tara,450, Tibetan,4.3
+287,Hotel Green Tara,450, Sichuan,4.3
+288,The Food Corner,450,Chinese,4.3
+288,The Food Corner,450, North Indian,4.3
+288,The Food Corner,450, Street Food,4.3
+288,The Food Corner,450, Fast Food,4.3
+288,The Food Corner,450, Beverages,4.3
+288,The Food Corner,450, Rolls,4.3
+288,The Food Corner,450, Sandwich,4.3
+288,The Food Corner,450, Sichuan,4.3
+289,Sri Udupi Grand,450,South Indian,3.6
+289,Sri Udupi Grand,450, North Indian,3.6
+289,Sri Udupi Grand,450, Chinese,3.6
+289,Sri Udupi Grand,450, Street Food,3.6
+289,Sri Udupi Grand,450, Beverages,3.6
+289,Sri Udupi Grand,450, Shake,3.6
+290,Peppy Parathas & Rolls by Chai Point,450,Fast Food,3.9
+290,Peppy Parathas & Rolls by Chai Point,450, North Indian,3.9
+290,Peppy Parathas & Rolls by Chai Point,450, Rolls,3.9
+290,Peppy Parathas & Rolls by Chai Point,450, Healthy Food,3.9
+291,Hotel Shangrila,450,Chinese,4
+291,Hotel Shangrila,450, Tibetan,4
+291,Hotel Shangrila,450, Asian,4
+291,Hotel Shangrila,450, Sichuan,4
+292,Desi Vdesi,450,North Indian,3.9
+292,Desi Vdesi,450, Fast Food,3.9
+292,Desi Vdesi,450, Beverages,3.9
+292,Desi Vdesi,450, Shake,3.9
+292,Desi Vdesi,450, Desserts,3.9
+293,Tunday Kababi,450,Awadhi,4
+293,Tunday Kababi,450, Kebab,4
+293,Tunday Kababi,450, Biryani,4
+294,Pizza Stop,450,Pasta,4.1
+294,Pizza Stop,450, Pizza,4.1
+294,Pizza Stop,450, Fast Food,4.1
+295,HRX by EatFit,450,Healthy Food,4
+295,HRX by EatFit,450, Beverages,4
+295,HRX by EatFit,450, Mediterranean,4
+295,HRX by EatFit,450, Burger,4
+295,HRX by EatFit,450, Desserts,4
+295,HRX by EatFit,450, Wraps,4
+295,HRX by EatFit,450, Pizza,4
+295,HRX by EatFit,450, Salad,4
+296,Hotel Chandrika,450,South Indian,4.1
+296,Hotel Chandrika,450, North Indian,4.1
+296,Hotel Chandrika,450, Chinese,4.1
+296,Hotel Chandrika,450, Street Food,4.1
+296,Hotel Chandrika,450, Fast Food,4.1
+296,Hotel Chandrika,450, Biryani,4.1
+296,Hotel Chandrika,450, Desserts,4.1
+296,Hotel Chandrika,450, Beverages,4.1
+297,Lavonne,250,Cafe,4.3
+297,Lavonne,250, Fast Food,4.3
+297,Lavonne,250, Bakery,4.3
+297,Lavonne,250, Beverages,4.3
+297,Lavonne,250, Desserts,4.3
+298,Boba Tree,250,Cafe,4
+298,Boba Tree,250, Beverages,4
+298,Boba Tree,250, Bubble Tea,4
+298,Boba Tree,250, Pizza,4
+298,Boba Tree,250, Burger,4
+298,Boba Tree,250, Fast Food,4
+298,Boba Tree,250, Desserts,4
+299,SLV Corner Restaurant,250,South Indian,4.3
+299,SLV Corner Restaurant,250, North Indian,4.3
+299,SLV Corner Restaurant,250, Street Food,4.3
+299,SLV Corner Restaurant,250, Chinese,4.3
+299,SLV Corner Restaurant,250, Beverages,4.3
+299,SLV Corner Restaurant,250, Desserts,4.3
+300,Rahhams,250,Biryani,3.8
+300,Rahhams,250, Mughlai,3.8
+300,Rahhams,250, North Indian,3.8
+300,Rahhams,250, Kebab,3.8
+300,Rahhams,250, Chinese,3.8
+301,Dum Safar Biryani,250,Biryani,4.3
+301,Dum Safar Biryani,250, Kebab,4.3
+301,Dum Safar Biryani,250, North Indian,4.3
+301,Dum Safar Biryani,250, BBQ,4.3
+301,Dum Safar Biryani,250, Desserts,4.3
+301,Dum Safar Biryani,250, Beverages,4.3
+302,Malabar Bay,250,Kerala,3.6
+302,Malabar Bay,250, Seafood,3.6
+302,Malabar Bay,250, North Indian,3.6
+302,Malabar Bay,250, Biryani,3.6
+302,Malabar Bay,250, Chinese,3.6
+302,Malabar Bay,250, Beverages,3.6
+302,Malabar Bay,250, Shake,3.6
+302,Malabar Bay,250, Desserts,3.6
+303,CupCake Noggins By CakeZone,250,Bakery,3.3
+303,CupCake Noggins By CakeZone,250, Desserts,3.3
+304,Carols Pastries & Bakers,250,Bakery,4
+304,Carols Pastries & Bakers,250, Desserts,4
+305,The Sip Shop,250,Fast Food,4.1
+305,The Sip Shop,250, Ice Cream,4.1
+305,The Sip Shop,250, Desserts,4.1
+305,The Sip Shop,250, Beverages,4.1
+305,The Sip Shop,250, Shake,4.1
+306,Punjabi Unplugged,250,North Indian,3.6
+306,Punjabi Unplugged,250, Chinese,3.6
+306,Punjabi Unplugged,250, Kebab,3.6
+306,Punjabi Unplugged,250, Biryani,3.6
+306,Punjabi Unplugged,250, Mughlai,3.6
+307,Rolls & Bowls Company,250,Rolls,3.7
+307,Rolls & Bowls Company,250, North Indian,3.7
+307,Rolls & Bowls Company,250, Chinese,3.7
+307,Rolls & Bowls Company,250, Fast Food,3.7
+307,Rolls & Bowls Company,250, Sichuan,3.7
+308,Kartik's Mithai Shoppe,250,Mithai,4.5
+308,Kartik's Mithai Shoppe,250, Street Food,4.5
+309,Bangaliana,150,Bengali,4.1
+309,Bangaliana,150, Seafood,4.1
+310,Little Italy,150,Italian,3.5
+310,Little Italy,150, Shake,3.5
+310,Little Italy,150, Beverages,3.5
+310,Little Italy,150, Desserts,3.5
+311,Chamarajpet Dose Corner,150,South Indian,4.3
+312,Hot Momos Darjeeling Style,150,Chinese,4
+312,Hot Momos Darjeeling Style,150, Momos,4
+312,Hot Momos Darjeeling Style,150, Sichuan,4
+313,Sendhoor Coffee,150,South Indian,3.7
+313,Sendhoor Coffee,150, Beverages,3.7
+315,Rang De Basanti Dhaba,150,North Indian,4
+315,Rang De Basanti Dhaba,150, Seafood,4
+315,Rang De Basanti Dhaba,150, Mughlai,4
+315,Rang De Basanti Dhaba,150, Desserts,4
+316,ITC Sunfeast Baked Creations,150,Bakery,4.2
+316,ITC Sunfeast Baked Creations,150, Desserts,4.2
+316,ITC Sunfeast Baked Creations,150, ,4.2
+316,ITC Sunfeast Baked Creations,150, Cafe,4.2
+316,ITC Sunfeast Baked Creations,150, Continental,4.2
+316,ITC Sunfeast Baked Creations,150, Sandwich,4.2
+317,Goila Butter Chicken,150,North Indian,4.1
+317,Goila Butter Chicken,150, Mughlai,4.1
+317,Goila Butter Chicken,150, Biryani,4.1
+317,Goila Butter Chicken,150, Rolls,4.1
+318,Fiero! Pizzeria,150,Pizza,3.9
+318,Fiero! Pizzeria,150, Fast Food,3.9
+319,Karnataka State Co-Operative Fisheries Federation Mysore,150,Seafood,4.1
+320,Tiwari's Ghee Paratha And Chaats,150,North Indian,4
+320,Tiwari's Ghee Paratha And Chaats,150, Rajasthani,4
+320,Tiwari's Ghee Paratha And Chaats,150, Street Food,4
+321,Savoury - Sea Shell Restaurant,150,Arabian,4
+321,Savoury - Sea Shell Restaurant,150, North Indian,4
+321,Savoury - Sea Shell Restaurant,150, Chinese,4
+321,Savoury - Sea Shell Restaurant,150, Fast Food,4
+321,Savoury - Sea Shell Restaurant,150, Shake,4
+321,Savoury - Sea Shell Restaurant,150, Desserts,4
+322,No. 10 Fort Cochin,150,Kerala,3.7
+322,No. 10 Fort Cochin,150, Seafood,3.7
+322,No. 10 Fort Cochin,150, Biryani,3.7
+322,No. 10 Fort Cochin,150, Chinese,3.7
+322,No. 10 Fort Cochin,150, Beverages,3.7
+323,ATH - All Things Healthy!,150,Healthy Food,4
+324,Sri Krishna Sweets,150,Mithai,4.1
+325,Hatti Kaapi,150,Beverages,3.4
+325,Hatti Kaapi,150, Fast Food,3.4
+325,Hatti Kaapi,150, Coffee,3.4
+326,Elixir - Luxury Pearls Drink,150,Beverages,4.3
+326,Elixir - Luxury Pearls Drink,150, Bubble Tea,4.3
+326,Elixir - Luxury Pearls Drink,150, Ice Cream,4.3
+327,Bangarapet Bhel House,150,Street Food,4.2
+328,Uttara Karnataka Jolada Rotti Mattu Chapati Angadi,150,South Indian,4.2
+328,Uttara Karnataka Jolada Rotti Mattu Chapati Angadi,150, Mithai,4.2
+328,Uttara Karnataka Jolada Rotti Mattu Chapati Angadi,150,South Indian,4.2
+573,Uttara Karnataka Jolada Rotti Mattu Chapati Angadi,300,South Indian,4
+573,Uttara Karnataka Jolada Rotti Mattu Chapati Angadi,300, Mithai,4
+573,Uttara Karnataka Jolada Rotti Mattu Chapati Angadi,300,South Indian,4
+329,Fresh Bites,150,North Indian,3.9
+329,Fresh Bites,150, Chinese,3.9
+330,Cheesecake & Co.,150,Bakery,4.5
+330,Cheesecake & Co.,150, Desserts,4.5
+331,Sagar Fast Food,150,South Indian,4
+331,Sagar Fast Food,150, North Indian,4
+331,Sagar Fast Food,150, Street Food,4
+331,Sagar Fast Food,150, Chinese,4
+331,Sagar Fast Food,150, Beverages,4
+331,Sagar Fast Food,150, Shake,4
+332,OOttupura,150,Kerala,4.1
+332,OOttupura,150, South Indian,4.1
+333,Taste Of Malabar,150,South Indian,4.1
+333,Taste Of Malabar,150, Chinese,4.1
+333,Taste Of Malabar,150, Sichuan,4.1
+334,Chai Mane,150,Beverages,4.2
+334,Chai Mane,150, Fast Food,4.2
+334,Chai Mane,150, Sandwich,4.2
+334,Chai Mane,150, Shake,4.2
+335,Bengali Khabar,150,Bengali,3.7
+335,Bengali Khabar,150, North Indian,3.7
+335,Bengali Khabar,150, Chinese,3.7
+335,Bengali Khabar,150, Seafood,3.7
+335,Bengali Khabar,150, Sichuan,3.7
+336,Chinese Daily,150,Chinese,4.3
+336,Chinese Daily,150, Asian,4.3
+336,Chinese Daily,150, Momos,4.3
+336,Chinese Daily,150, Sichuan,4.3
+337,Karachi Bakery,150,Bakery,4.2
+337,Karachi Bakery,150, Fast Food,4.2
+337,Karachi Bakery,150, Pizza,4.2
+337,Karachi Bakery,150, Pasta,4.2
+337,Karachi Bakery,150, Sandwich,4.2
+337,Karachi Bakery,150, Waffle,4.2
+337,Karachi Bakery,150, Beverages,4.2
+339,Momo Hut,150,Chinese,4
+339,Momo Hut,150, Tibetan,4
+339,Momo Hut,150, Momos,4
+339,Momo Hut,150, Sichuan,4
+340,Piazza Pizza By Little Italy,150,Pizza,3.5
+340,Piazza Pizza By Little Italy,150, Fast Food,3.5
+341,Thanco's Natural Ice Cream,150,Ice Cream,4.5
+341,Thanco's Natural Ice Cream,150, Beverages,4.5
+341,Thanco's Natural Ice Cream,150, Desserts,4.5
+342,The Salad Studio,150,Salad,4.3
+342,The Salad Studio,150, Healthy Food,4.3
+343,B Track,150,Chinese,3.9
+343,B Track,150, Naga,3.9
+343,B Track,150, Continental,3.9
+344,Rosy Roti,150,North Indian,4.3
+344,Rosy Roti,150, Rolls,4.3
+345,Prezzed Juicery,200,Healthy Food,4.3
+345,Prezzed Juicery,200, Juices,4.3
+346,Raffaele's Ristorante Pizzeria,200,Pizza,4
+346,Raffaele's Ristorante Pizzeria,200, Italian,4
+346,Raffaele's Ristorante Pizzeria,200, Burger,4
+346,Raffaele's Ristorante Pizzeria,200, Beverages,4
+347,Nasi And Mee,200,Asian,4.3
+347,Nasi And Mee,200, Japanese,4.3
+347,Nasi And Mee,200, Singaporean,4.3
+347,Nasi And Mee,200, Malaysian,4.3
+347,Nasi And Mee,200, Thai,4.3
+348,The Baklava Company,200,Desserts,3.8
+349,Bonomi,200,Coffee,2.8
+350,The Lassi Park,200,Beverages,4.3
+350,The Lassi Park,200, Ice Cream,4.3
+350,The Lassi Park,200, Desserts,4.3
+351,Punjab Grill,200,North Indian,4
+352,Hotel Sanman,200,South Indian,4.4
+353,Restaurant 1179,200,North Indian,3.7
+353,Restaurant 1179,200, South Indian,3.7
+353,Restaurant 1179,200, Chinese,3.7
+353,Restaurant 1179,200, Continental,3.7
+353,Restaurant 1179,200, Italian,3.7
+353,Restaurant 1179,200, Street Food,3.7
+353,Restaurant 1179,200, Desserts,3.7
+353,Restaurant 1179,200, Beverages,3.7
+354,Starboy Pizza & Shakes,200,Pizza,3.6
+354,Starboy Pizza & Shakes,200, Italian,3.6
+354,Starboy Pizza & Shakes,200, Desserts,3.6
+354,Starboy Pizza & Shakes,200, Beverages,3.6
+355,Chai Resto,200,Rolls,4
+355,Chai Resto,200, Fast Food,4
+355,Chai Resto,200, Street Food,4
+355,Chai Resto,200, Tea,4
+355,Chai Resto,200, Beverages,4
+355,Chai Resto,200, Desserts,4
+356,S M V Snacks Corner,200,Fast Food,4.2
+356,S M V Snacks Corner,200, Street Food,4.2
+356,S M V Snacks Corner,200, Ice Cream,4.2
+356,S M V Snacks Corner,200, Desserts,4.2
+356,S M V Snacks Corner,200, Sichuan,4.2
+357,Royal Treat,100,North Indian,4
+357,Royal Treat,100, Chinese,4
+357,Royal Treat,100, Biryani,4
+358,Le Gateau - The Cake Shop,100,Bakery,4
+359,Thalassery Cafe,100,Street Food,3.9
+359,Thalassery Cafe,100, Chinese,3.9
+359,Thalassery Cafe,100, Kerala,3.9
+359,Thalassery Cafe,100, South Indian,3.9
+359,Thalassery Cafe,100, Seafood,3.9
+359,Thalassery Cafe,100, Desserts,3.9
+359,Thalassery Cafe,100, Ice Cream,3.9
+359,Thalassery Cafe,100, Beverages,3.9
+360,Asia Kitchen By Mainland China,100,Chinese,4.1
+360,Asia Kitchen By Mainland China,100, Momos,4.1
+360,Asia Kitchen By Mainland China,100, Thai,4.1
+360,Asia Kitchen By Mainland China,100, Asian,4.1
+360,Asia Kitchen By Mainland China,100, Seafood,4.1
+360,Asia Kitchen By Mainland China,100, Sushi,4.1
+360,Asia Kitchen By Mainland China,100, Beverages,4.1
+360,Asia Kitchen By Mainland China,100,Chinese,4.1
+360,Asia Kitchen By Mainland China,100, Momos,4.1
+360,Asia Kitchen By Mainland China,100, Thai,4.1
+360,Asia Kitchen By Mainland China,100, Asian,4.1
+360,Asia Kitchen By Mainland China,100, Seafood,4.1
+360,Asia Kitchen By Mainland China,100, Sushi,4.1
+360,Asia Kitchen By Mainland China,100, Beverages,4.1
+571,Asia Kitchen By Mainland China,300,Chinese,4.1
+571,Asia Kitchen By Mainland China,300, Momos,4.1
+571,Asia Kitchen By Mainland China,300, Thai,4.1
+571,Asia Kitchen By Mainland China,300, Asian,4.1
+571,Asia Kitchen By Mainland China,300, Seafood,4.1
+571,Asia Kitchen By Mainland China,300, Sushi,4.1
+571,Asia Kitchen By Mainland China,300, Beverages,4.1
+571,Asia Kitchen By Mainland China,300,Chinese,4.1
+571,Asia Kitchen By Mainland China,300, Momos,4.1
+571,Asia Kitchen By Mainland China,300, Thai,4.1
+571,Asia Kitchen By Mainland China,300, Asian,4.1
+571,Asia Kitchen By Mainland China,300, Seafood,4.1
+571,Asia Kitchen By Mainland China,300, Sushi,4.1
+571,Asia Kitchen By Mainland China,300, Beverages,4.1
+361,BLR Brewing Co.,100,Chinese,
+361,BLR Brewing Co.,100, North Indian,
+361,BLR Brewing Co.,100, Fast Food,
+361,BLR Brewing Co.,100, Desserts,
+361,BLR Brewing Co.,100, BBQ,
+361,BLR Brewing Co.,100, Beverages,
+362,Bamey's Restro Cafe,100,Asian,4.2
+362,Bamey's Restro Cafe,100, Nepalese,4.2
+362,Bamey's Restro Cafe,100, Momos,4.2
+363,Saiko Sushi House,100,Japanese,3.4
+363,Saiko Sushi House,100, Sushi,3.4
+364,Tamarind - Tamarind Hospitality,100,Chinese,4.3
+364,Tamarind - Tamarind Hospitality,100, Continental,4.3
+364,Tamarind - Tamarind Hospitality,100, North Indian,4.3
+365,Maggi Mane,100,Fast Food,4.3
+365,Maggi Mane,100, Beverages,4.3
+366,Bowl Soul,100,Fast Food,3.3
+366,Bowl Soul,100, Beverages,3.3
+367,Falhari - A Fruitful Habit,100,Healthy Food,3.7
+367,Falhari - A Fruitful Habit,100, Desserts,3.7
+367,Falhari - A Fruitful Habit,100, Beverages,3.7
+367,Falhari - A Fruitful Habit,100, Juices,3.7
+368,Calcutta Famous Chats,100,Street Food,4
+368,Calcutta Famous Chats,100, North Indian,4
+369,Suryawanshi,200,Maharashtrian,3.7
+369,Suryawanshi,200, Seafood,3.7
+369,Suryawanshi,200, Beverages,3.7
+369,Suryawanshi,200, Desserts,3.7
+370,Khaomomo,200,Momos,4.3
+370,Khaomomo,200, Asian,4.3
+370,Khaomomo,200, Sichuan,4.3
+371,Sahana's - Since 1993,200,South Indian,3.8
+371,Sahana's - Since 1993,200, Mughlai,3.8
+372,Donne Biryani Adda,200,Biryani,3.5
+372,Donne Biryani Adda,200, South Indian,3.5
+373,Juicy City,200,Juices,3.5
+373,Juicy City,200, Beverages,3.5
+373,Juicy City,200, Sandwich,3.5
+373,Juicy City,200, Shake,3.5
+373,Juicy City,200, Ice Cream,3.5
+374,Bombay 2 Delhi,200,Street Food,3.5
+375,Davanagere Benne Dose Manne,200,South Indian,4
+376,Green Cravings,200,Healthy Food,3.5
+376,Green Cravings,200, Continental,3.5
+377,Kolkata Famous Kati Rolls,200,Rolls,4.3
+378,Abees Mess,200,South Indian,3.9
+378,Abees Mess,200, Chinese,3.9
+378,Abees Mess,200, Biryani,3.9
+379,Cheesecakes By CakeZone,200,Bakery,
+379,Cheesecakes By CakeZone,200, Desserts,
+379,Cheesecakes By CakeZone,200, Beverages,
+379,Cheesecakes By CakeZone,200, Ice Cream,
+379,Cheesecakes By CakeZone,200, Juices,
+379,Cheesecakes By CakeZone,200, Bengali,
+379,Cheesecakes By CakeZone,200, Mithai,
+380,The Betel Leaf Co - Originally from Bangalore,200,Paan,4.6
+380,The Betel Leaf Co - Originally from Bangalore,200, Desserts,4.6
+381,Cravy Wings,150,Burger,4.3
+381,Cravy Wings,150, Fast Food,4.3
+381,Cravy Wings,150, Beverages,4.3
+382,Taiki,150,Japanese,4
+382,Taiki,150, Korean,4
+382,Taiki,150, Asian,4
+382,Taiki,150, Sushi,4
+382,Taiki,150, Beverages,4
+383,Bowl 99,150,North Indian,3
+383,Bowl 99,150, Mughlai,3
+383,Bowl 99,150, Desserts,3
+384,Srinidhi Sagar Deluxe,150,South Indian,3.9
+384,Srinidhi Sagar Deluxe,150, North Indian,3.9
+384,Srinidhi Sagar Deluxe,150, Chinese,3.9
+384,Srinidhi Sagar Deluxe,150, Street Food,3.9
+384,Srinidhi Sagar Deluxe,150, Shake,3.9
+384,Srinidhi Sagar Deluxe,150, Sichuan,3.9
+385,Snacks Corner,150,Chinese,3.7
+385,Snacks Corner,150, North Indian,3.7
+385,Snacks Corner,150, Rolls,3.7
+385,Snacks Corner,150, Momos,3.7
+385,Snacks Corner,150, Fast Food,3.7
+385,Snacks Corner,150, Sichuan,3.7
+386,Basco And Fry,150,American,4.3
+386,Basco And Fry,150, Mexican,4.3
+386,Basco And Fry,150, Burger,4.3
+387,Basaveshwar Khanavali,150,South Indian,3.5
+387,Basaveshwar Khanavali,150, North Indian,3.5
+387,Basaveshwar Khanavali,150,South Indian,3.5
+387,Basaveshwar Khanavali,150,South Indian,3.5
+570,Basaveshwar Khanavali,300,South Indian,4
+570,Basaveshwar Khanavali,300, North Indian,4
+570,Basaveshwar Khanavali,300,South Indian,4
+570,Basaveshwar Khanavali,300,South Indian,4
+607,Basaveshwar Khanavali,250,South Indian,4.3
+607,Basaveshwar Khanavali,250, North Indian,4.3
+607,Basaveshwar Khanavali,250,South Indian,4.3
+607,Basaveshwar Khanavali,250,South Indian,4.3
+388,City Durbar,150,North Indian,3.7
+388,City Durbar,150, Chinese,3.7
+388,City Durbar,150, Biryani,3.7
+389,Food Adda,150,Fast Food,3.7
+389,Food Adda,150, Sandwich,3.7
+389,Food Adda,150, Pizza,3.7
+389,Food Adda,150, Burger,3.7
+389,Food Adda,150, Beverages,3.7
+390,Thottathil Food House,150,Kerala,3.7
+390,Thottathil Food House,150, South Indian,3.7
+390,Thottathil Food House,150, Biryani,3.7
+390,Thottathil Food House,150, Shake,3.7
+390,Thottathil Food House,150, Juices,3.7
+390,Thottathil Food House,150, Beverages,3.7
+391,Nando's,150,Burger,4.1
+391,Nando's,150, Fast Food,4.1
+391,Nando's,150, Portuguese,4.1
+393,Blue Tokai Coffee Roasters,250,Cafe,4.3
+393,Blue Tokai Coffee Roasters,250, Coffee,4.3
+393,Blue Tokai Coffee Roasters,250, Healthy Food,4.3
+393,Blue Tokai Coffee Roasters,250, Beverages,4.3
+393,Blue Tokai Coffee Roasters,250, Desserts,4.3
+393,Blue Tokai Coffee Roasters,250, American,4.3
+393,Blue Tokai Coffee Roasters,250, Burger,4.3
+393,Blue Tokai Coffee Roasters,250, Sandwich,4.3
+394,Imli,250,North Indian,3.6
+394,Imli,250, Street Food,3.6
+396,Jain & Veg Cuisines,250,Chinese,3.8
+396,Jain & Veg Cuisines,250, Fast Food,3.8
+396,Jain & Veg Cuisines,250, Pizza,3.8
+396,Jain & Veg Cuisines,250, Sichuan,3.8
+397,Pizzaaj,250,Pizza,3.5
+397,Pizzaaj,250, Fast Food,3.5
+398,Buffalo Wild Wings,250,American,3.8
+398,Buffalo Wild Wings,250, Mexican,3.8
+398,Buffalo Wild Wings,250, Healthy Food,3.8
+398,Buffalo Wild Wings,250, Finger Food,3.8
+398,Buffalo Wild Wings,250, Burger,3.8
+398,Buffalo Wild Wings,250, Fast Food,3.8
+398,Buffalo Wild Wings,250, Desserts,3.8
+399,Sree Ganesh Juice Center,250,Beverages,4.1
+399,Sree Ganesh Juice Center,250, Juices,4.1
+399,Sree Ganesh Juice Center,250, Shake,4.1
+400,Juice Shop,250,Beverages,3.9
+400,Juice Shop,250, Desserts,3.9
+400,Juice Shop,250, Ice Cream,3.9
+400,Juice Shop,250, Juices,3.9
+400,Juice Shop,250, Shake,3.9
+401,Appu's Donne Biryani,250,Biryani,4
+401,Appu's Donne Biryani,250, Kebab,4
+401,Appu's Donne Biryani,250, South Indian,4
+402,Ocea Hotel,250,North Indian,4.2
+402,Ocea Hotel,250, Chinese,4.2
+402,Ocea Hotel,250, Seafood,4.2
+402,Ocea Hotel,250, Biryani,4.2
+402,Ocea Hotel,250, Beverages,4.2
+402,Ocea Hotel,250, Desserts,4.2
+402,Ocea Hotel,250, Shake,4.2
+403,Burgerama,250,Burger,4.2
+404,Shaap,250,Kerala,3.7
+404,Shaap,250, Seafood,3.7
+405,Tewari Bros Mithai Shoppie,50,Street Food,3.5
+405,Tewari Bros Mithai Shoppie,50, Mithai,3.5
+406,Kabab Korner,50,North Indian,4.1
+406,Kabab Korner,50, Chinese,4.1
+406,Kabab Korner,50, Mughlai,4.1
+406,Kabab Korner,50, Sichuan,4.1
+407,Cafe Noir,50,Continental,3.4
+407,Cafe Noir,50, Italian,3.4
+407,Cafe Noir,50, French,3.4
+407,Cafe Noir,50, American,3.4
+407,Cafe Noir,50, Waffle,3.4
+407,Cafe Noir,50, Beverages,3.4
+407,Cafe Noir,50, Desserts,3.4
+408,Zed The Baker,50,Bakery,3.9
+408,Zed The Baker,50, Continental,3.9
+408,Zed The Baker,50, European,3.9
+408,Zed The Baker,50, Desserts,3.9
+408,Zed The Baker,50, French,3.9
+408,Zed The Baker,50, Cafe,3.9
+409,MISU,50,Asian,4.2
+409,MISU,50, Japanese,4.2
+409,MISU,50, Thai,4.2
+409,MISU,50, Burmese,4.2
+409,MISU,50, Korean,4.2
+409,MISU,50, Indonesian,4.2
+409,MISU,50, Vietnamese,4.2
+409,MISU,50, Singaporean,4.2
+410,Priyadarshini Restaurant,50,South Indian,4.4
+410,Priyadarshini Restaurant,50, Desserts,4.4
+410,Priyadarshini Restaurant,50, Beverages,4.4
+410,Priyadarshini Restaurant,50, Ice Cream,4.4
+411,Dolci Desserts,50,Cafe,4.3
+411,Dolci Desserts,50, Desserts,4.3
+411,Dolci Desserts,50, Italian,4.3
+411,Dolci Desserts,50, Fast Food,4.3
+411,Dolci Desserts,50, Beverages,4.3
+411,Dolci Desserts,50, Shake,4.3
+412,Shyam Mishra Juice Centre,50,Beverages,4.1
+412,Shyam Mishra Juice Centre,50, Juices,4.1
+413,South Ruchis,50,South Indian,3.9
+413,South Ruchis,50, Chinese,3.9
+414,Atithi Satkaar,50,North Indian,4
+414,Atithi Satkaar,50, South Indian,4
+414,Atithi Satkaar,50, Chinese,4
+414,Atithi Satkaar,50, Fast Food,4
+414,Atithi Satkaar,50, Ice Cream,4
+414,Atithi Satkaar,50, Beverages,4
+414,Atithi Satkaar,50, Shake,4
+414,Atithi Satkaar,50, Sichuan,4
+415,Gourmet Ice Cream Cakes By Baskin Robbins,50,Bakery,4
+415,Gourmet Ice Cream Cakes By Baskin Robbins,50, Desserts,4
+415,Gourmet Ice Cream Cakes By Baskin Robbins,50, Ice Cream,4
+416,GLOBO Ice Creams Of The World,50,Ice Cream,4.1
+417,Kapoor's Chaat Bhandaar,100,Street Food,4.2
+417,Kapoor's Chaat Bhandaar,100, Desserts,4.2
+417,Kapoor's Chaat Bhandaar,100, Beverages,4.2
+418,San Tung Chinese,100,Chinese,3.8
+418,San Tung Chinese,100, Momos,3.8
+418,San Tung Chinese,100, Sichuan,3.8
+419,Shawarma Grill House,100,Lebanese,3.9
+419,Shawarma Grill House,100, Chinese,3.9
+419,Shawarma Grill House,100, Beverages,3.9
+419,Shawarma Grill House,100, Sichuan,3.9
+420,Bombay Bitess,100,South Indian,3.6
+420,Bombay Bitess,100, North Indian,3.6
+420,Bombay Bitess,100, Chinese,3.6
+420,Bombay Bitess,100, Street Food,3.6
+420,Bombay Bitess,100, Beverages,3.6
+420,Bombay Bitess,100, Fast Food,3.6
+421,Veena Stores,100,South Indian,4.4
+422,My Khana,100,North Indian,3.9
+423,Little Cafe,100,Fast Food,3.8
+423,Little Cafe,100, Chinese,3.8
+423,Little Cafe,100, North Indian,3.8
+423,Little Cafe,100, Shake,3.8
+423,Little Cafe,100, Sichuan,3.8
+424,The Coorg Food Co.,100,South Indian,3.9
+425,Sundae Everyday Ice Creams,100,Beverages,3.8
+425,Sundae Everyday Ice Creams,100, Ice Cream,3.8
+425,Sundae Everyday Ice Creams,100, Desserts,3.8
+426,Ciro's Pizzeria,100,Pizza,4.2
+426,Ciro's Pizzeria,100, Panini,4.2
+426,Ciro's Pizzeria,100, Pasta,4.2
+426,Ciro's Pizzeria,100, Beverages,4.2
+427,Chinita Real Mexican Food,100,Mexican,4.3
+427,Chinita Real Mexican Food,100, Salad,4.3
+427,Chinita Real Mexican Food,100, Beverages,4.3
+427,Chinita Real Mexican Food,100, Desserts,4.3
+428,Mega Biryani,100,Biryani,4
+429,The Kolkata Kati Roll,150,Rolls,3.5
+429,The Kolkata Kati Roll,150, Fast Food,3.5
+430,Trattoria By Toscano,150,Italian,3.9
+430,Trattoria By Toscano,150, Continental,3.9
+430,Trattoria By Toscano,150, Healthy Food,3.9
+430,Trattoria By Toscano,150, Desserts,3.9
+430,Trattoria By Toscano,150, Salad,3.9
+430,Trattoria By Toscano,150, Shake,3.9
+430,Trattoria By Toscano,150, Seafood,3.9
+431,Om Meal And Paratha Junction,150,North Indian,3.6
+431,Om Meal And Paratha Junction,150, Street Food,3.6
+431,Om Meal And Paratha Junction,150, Chinese,3.6
+431,Om Meal And Paratha Junction,150, Beverages,3.6
+433,Sultan Dum Biryani,150,Biryani,3.8
+433,Sultan Dum Biryani,150, Chinese,3.8
+433,Sultan Dum Biryani,150, Beverages,3.8
+434,Dofu,150,Chinese,3.9
+434,Dofu,150, Korean,3.9
+434,Dofu,150, Japanese,3.9
+434,Dofu,150, Beverages,3.9
+434,Dofu,150, Desserts,3.9
+435,Kerala Pavilion,150,Kerala,3.9
+435,Kerala Pavilion,150, South Indian,3.9
+435,Kerala Pavilion,150, Chinese,3.9
+436,Lucknowee,150,Awadhi,3.9
+436,Lucknowee,150, Kebab,3.9
+436,Lucknowee,150, Lucknowi,3.9
+436,Lucknowee,150, Mughlai,3.9
+436,Lucknowee,150, Rolls,3.9
+436,Lucknowee,150, Biryani,3.9
+436,Lucknowee,150, North Indian,3.9
+437,Wack Waffles & Brownies,150,Waffle,3.8
+437,Wack Waffles & Brownies,150, Desserts,3.8
+437,Wack Waffles & Brownies,150, Beverages,3.8
+438,Sri Udupi Vaibhav,150,South Indian,3.9
+438,Sri Udupi Vaibhav,150, North Indian,3.9
+438,Sri Udupi Vaibhav,150, Chinese,3.9
+438,Sri Udupi Vaibhav,150, Beverages,3.9
+439,Express By ABs,150,North Indian,3
+439,Express By ABs,150, Biryani,3
+439,Express By ABs,150, BBQ,3
+440,New York Waffles & Dinges,150,Waffle,3.6
+440,New York Waffles & Dinges,150, Bakery,3.6
+440,New York Waffles & Dinges,150, Ice Cream,3.6
+440,New York Waffles & Dinges,150, Desserts,3.6
+440,New York Waffles & Dinges,150, Beverages,3.6
+441,Pizza@99,150,Pizza,3.4
+441,Pizza@99,150, Burger,3.4
+441,Pizza@99,150, Fast Food,3.4
+442,Grill Biryanis,150,Biryani,3.8
+442,Grill Biryanis,150, North Indian,3.8
+442,Grill Biryanis,150, Mughlai,3.8
+442,Grill Biryanis,150, Chinese,3.8
+442,Grill Biryanis,150, Sichuan,3.8
+443,New Agarwal Bhavan,150,Mithai,4.2
+443,New Agarwal Bhavan,150, Street Food,4.2
+444,Savi Sagar,150,North Indian,3.8
+444,Savi Sagar,150, South Indian,3.8
+444,Savi Sagar,150, Chinese,3.8
+444,Savi Sagar,150, Sandwich,3.8
+444,Savi Sagar,150, Street Food,3.8
+444,Savi Sagar,150, Ice Cream,3.8
+444,Savi Sagar,150, Juices,3.8
+444,Savi Sagar,150, Beverages,3.8
+445,Sagar Hotel,150,North Indian,4.1
+445,Sagar Hotel,150, Chinese,4.1
+445,Sagar Hotel,150, Street Food,4.1
+445,Sagar Hotel,150, Fast Food,4.1
+445,Sagar Hotel,150, South Indian,4.1
+445,Sagar Hotel,150, Juices,4.1
+445,Sagar Hotel,150, Beverages,4.1
+446,CTR Shri Sagar,150,South Indian,4.4
+448,Brahmins' Thatte Idli,150,South Indian,4.3
+449,Hyderabad Biryani House,150,North Indian,4.1
+449,Hyderabad Biryani House,150, Hyderabadi,4.1
+449,Hyderabad Biryani House,150, Chinese,4.1
+449,Hyderabad Biryani House,150, Biryani,4.1
+449,Hyderabad Biryani House,150, Mughlai,4.1
+449,Hyderabad Biryani House,150, Desserts,4.1
+449,Hyderabad Biryani House,150, Beverages,4.1
+449,Hyderabad Biryani House,150, Shake,4.1
+450,D-Zaprino,150,Fast Food,3.8
+450,D-Zaprino,150, Street Food,3.8
+450,D-Zaprino,150, Biryani,3.8
+450,D-Zaprino,150, Desserts,3.8
+450,D-Zaprino,150, Beverages,3.8
+451,Sree Banashankari Donne Biriyani,150,Biryani,4.1
+451,Sree Banashankari Donne Biriyani,150, South Indian,4.1
+452,You Mee,150,Japanese,4
+452,You Mee,150, Asian,4
+452,You Mee,150, Sushi,4
+453,Donne Biryani House,150,Biryani,4.1
+453,Donne Biryani House,150, South Indian,4.1
+454,Karnataka Biryani Point,150,Biryani,3.9
+454,Karnataka Biryani Point,150, South Indian,3.9
+455,Karnataka Chicken Biryani Point,150,Biryani,3.4
+455,Karnataka Chicken Biryani Point,150, Kebab,3.4
+455,Karnataka Chicken Biryani Point,150, Chinese,3.4
+455,Karnataka Chicken Biryani Point,150, South Indian,3.4
+455,Karnataka Chicken Biryani Point,150, Sichuan,3.4
+456,A1 Biryani Combo 75,150,Biryani,3.5
+456,A1 Biryani Combo 75,150, Kebab,3.5
+456,A1 Biryani Combo 75,150, South Indian,3.5
+457,Sabzi Aur Roti,150,North Indian,3.7
+458,PVR Café,150,Burger,3.5
+458,PVR Café,150, Sandwich,3.5
+458,PVR Café,150, Fast Food,3.5
+459,Donne Biriyani House,150,Biryani,3.3
+459,Donne Biriyani House,150, South Indian,3.3
+459,Donne Biriyani House,150,Biryani,3.3
+459,Donne Biriyani House,150, South Indian,3.3
+501,Donne Biriyani House,150,Biryani,3.7
+501,Donne Biriyani House,150, South Indian,3.7
+501,Donne Biriyani House,150,Biryani,3.7
+501,Donne Biriyani House,150, South Indian,3.7
+460,Abubakar Siddiq Hotel,150,Chinese,4.2
+460,Abubakar Siddiq Hotel,150, Rolls,4.2
+460,Abubakar Siddiq Hotel,150, South Indian,4.2
+460,Abubakar Siddiq Hotel,150, Mughlai,4.2
+460,Abubakar Siddiq Hotel,150, North Indian,4.2
+461,Donut Hubb,150,Desserts,3.2
+461,Donut Hubb,150, Beverages,3.2
+461,Donut Hubb,150, Fast Food,3.2
+461,Donut Hubb,150, Shake,3.2
+462,Go Naati,150,South Indian,3.9
+462,Go Naati,150, Biryani,3.9
+462,Go Naati,150, Chinese,3.9
+463,New Krishna Bhavan,150,South Indian,4.3
+463,New Krishna Bhavan,150, North Indian,4.3
+463,New Krishna Bhavan,150, Chinese,4.3
+464,Magic Fill,150,North Indian,4
+464,Magic Fill,150, Chinese,4
+464,Magic Fill,150, Mughlai,4
+465,Chicking,200,Fast Food,3.7
+465,Chicking,200, Burger,3.7
+465,Chicking,200, Pizza,3.7
+466,Kolkata Famous Kati Roll,200,Rolls,4
+467,Bangarpet Chats,200,Street Food,4.1
+468,La Heaven,200,Bakery,4.3
+468,La Heaven,200, Desserts,4.3
+469,Lulu Hypermarket,200,Arabian,3.9
+469,Lulu Hypermarket,200, North Indian,3.9
+469,Lulu Hypermarket,200, South Indian,3.9
+469,Lulu Hypermarket,200, Salad,3.9
+469,Lulu Hypermarket,200, Fast Food,3.9
+469,Lulu Hypermarket,200, Bakery,3.9
+470,Donne Biryani Angadi Mane,200,Biryani,3.7
+470,Donne Biryani Angadi Mane,200, South Indian,3.7
+471,Shawarma 21,200,Lebanese,3.7
+471,Shawarma 21,200, Fast Food,3.7
+472,Four Seasons Fast Food Center,200,Biryani,3.4
+472,Four Seasons Fast Food Center,200, Kebab,3.4
+472,Four Seasons Fast Food Center,200, South Indian,3.4
+473,Malleshwaram Dosa Corner,200,South Indian,4.4
+474,Gundappa Donne Biryani,200,Biryani,3.7
+474,Gundappa Donne Biryani,200, South Indian,3.7
+475,Copper + Cloves @ The Organic World,200,Cafe,4.1
+475,Copper + Cloves @ The Organic World,200, Healthy Food,4.1
+475,Copper + Cloves @ The Organic World,200, Desserts,4.1
+475,Copper + Cloves @ The Organic World,200, Beverages,4.1
+476,Big Pitcher,200,Finger Food,3.7
+476,Big Pitcher,200, Continental,3.7
+476,Big Pitcher,200, North Indian,3.7
+476,Big Pitcher,200, Mughlai,3.7
+476,Big Pitcher,200, Biryani,3.7
+476,Big Pitcher,200, Chinese,3.7
+476,Big Pitcher,200, Desserts,3.7
+476,Big Pitcher,200, Beverages,3.7
+477,Pizza House,150,Burger,
+477,Pizza House,150, Pizza,
+477,Pizza House,150, Street Food,
+477,Pizza House,150, Fast Food,
+477,Pizza House,150, Shake,
+477,Pizza House,150, Beverages,
+477,Pizza House,150, Ice Cream,
+478,FoodX Restaurant,150,Chinese,4.1
+478,FoodX Restaurant,150, South Indian,4.1
+478,FoodX Restaurant,150, Beverages,4.1
+478,FoodX Restaurant,150, Sichuan,4.1
+479,Sagar Delicacy,150,North Indian,4.2
+479,Sagar Delicacy,150, Chinese,4.2
+479,Sagar Delicacy,150, South Indian,4.2
+479,Sagar Delicacy,150, Beverages,4.2
+480,Havmor Ice Cream,150,Desserts,4.1
+480,Havmor Ice Cream,150, Ice Cream,4.1
+480,Havmor Ice Cream,150, Beverages,4.1
+481,Gilly's Restobar,150,North Indian,3.4
+481,Gilly's Restobar,150, European,3.4
+481,Gilly's Restobar,150, Bar Food,3.4
+482,DiabeSmart,150,Sandwich,3.6
+482,DiabeSmart,150, Street Food,3.6
+482,DiabeSmart,150, North Indian,3.6
+482,DiabeSmart,150, Healthy Food,3.6
+483,Nammur Joint,150,Beverages,4
+483,Nammur Joint,150, Fast Food,4
+483,Nammur Joint,150, Street Food,4
+483,Nammur Joint,150, Desserts,4
+483,Nammur Joint,150, Shake,4
+484,Paratha Box by EatFit,150,North Indian,3.8
+484,Paratha Box by EatFit,150, Desserts,3.8
+484,Paratha Box by EatFit,150, Beverages,3.8
+485,Shetty Lunch Home,150,Mangalorean,4.3
+485,Shetty Lunch Home,150, Seafood,4.3
+485,Shetty Lunch Home,150, North Indian,4.3
+485,Shetty Lunch Home,150, Chinese,4.3
+485,Shetty Lunch Home,150, Mughlai,4.3
+485,Shetty Lunch Home,150, Street Food,4.3
+485,Shetty Lunch Home,150, Beverages,4.3
+485,Shetty Lunch Home,150, Shake,4.3
+486,Ajji Ruchi Kitchen,150,North Indian,4.2
+486,Ajji Ruchi Kitchen,150, South Indian,4.2
+487,Kaippunnyam Restaurant,150,Kerala,3.8
+487,Kaippunnyam Restaurant,150, Biryani,3.8
+487,Kaippunnyam Restaurant,150, North Indian,3.8
+488,Chakum Chukum Calcutta On A Roll,150,Rolls,4.1
+488,Chakum Chukum Calcutta On A Roll,150, North Indian,4.1
+488,Chakum Chukum Calcutta On A Roll,150, Fast Food,4.1
+488,Chakum Chukum Calcutta On A Roll,150, Beverages,4.1
+489,Beijing Bites,250,Chinese,4.1
+489,Beijing Bites,250, Thai,4.1
+489,Beijing Bites,250, Seafood,4.1
+489,Beijing Bites,250, Healthy Food,4.1
+489,Beijing Bites,250, Sichuan,4.1
+490,Royal Restaurant,250,North Indian,3.9
+490,Royal Restaurant,250, Chinese,3.9
+490,Royal Restaurant,250, Sichuan,3.9
+491,Narmada Chain of Restaurants,250,Andhra,
+491,Narmada Chain of Restaurants,250, Hyderabadi,
+491,Narmada Chain of Restaurants,250, Biryani,
+491,Narmada Chain of Restaurants,250, North Indian,
+491,Narmada Chain of Restaurants,250, Chinese,
+491,Narmada Chain of Restaurants,250, Beverages,
+492,Delicacy,250,Chinese,3.9
+492,Delicacy,250, Thai,3.9
+493,7 Plates,250,North Indian,4.1
+493,7 Plates,250, Mughlai,4.1
+493,7 Plates,250, Rolls,4.1
+493,7 Plates,250, Chinese,4.1
+494,Shanthi Sagar,250,South Indian,4
+494,Shanthi Sagar,250, North Indian,4
+494,Shanthi Sagar,250, Chinese,4
+494,Shanthi Sagar,250, Street Food,4
+494,Shanthi Sagar,250, Desserts,4
+494,Shanthi Sagar,250, Shake,4
+494,Shanthi Sagar,250, Beverages,4
+495,Siddique Kabab Centre,250,Mughlai,3.9
+495,Siddique Kabab Centre,250, Chinese,3.9
+495,Siddique Kabab Centre,250, North Indian,3.9
+495,Siddique Kabab Centre,250, Rolls,3.9
+495,Siddique Kabab Centre,250, Sichuan,3.9
+496,Zwarma,250,Shawarma,3.3
+496,Zwarma,250, BBQ,3.3
+496,Zwarma,250, Fast Food,3.3
+496,Zwarma,250, Beverages,3.3
+497,Shuchi Ruchi,250,Chinese,4
+497,Shuchi Ruchi,250, North Indian,4
+497,Shuchi Ruchi,250, South Indian,4
+497,Shuchi Ruchi,250, Street Food,4
+497,Shuchi Ruchi,250, Fast Food,4
+498,Al Zara Mandi Arabian Restaurant,250,Arabian,4
+498,Al Zara Mandi Arabian Restaurant,250, North Indian,4
+498,Al Zara Mandi Arabian Restaurant,250, Mughlai,4
+499,Asha Food Camp,250,South Indian,4.3
+499,Asha Food Camp,250, Chinese,4.3
+499,Asha Food Camp,250, North Indian,4.3
+499,Asha Food Camp,250, Fast Food,4.3
+499,Asha Food Camp,250, Beverages,4.3
+499,Asha Food Camp,250, Ice Cream,4.3
+499,Asha Food Camp,250, Desserts,4.3
+500,Amul Icecream Parlour,250,Desserts,4.4
+500,Amul Icecream Parlour,250, Ice Cream,4.4
+502,Main Lassi Shop,150,Beverages,3.8
+502,Main Lassi Shop,150, Ice Cream,3.8
+502,Main Lassi Shop,150, Juices,3.8
+502,Main Lassi Shop,150, Fast Food,3.8
+502,Main Lassi Shop,150, Street Food,3.8
+502,Main Lassi Shop,150, Sandwich,3.8
+502,Main Lassi Shop,150, Shake,3.8
+503,Chichaba's Taj,150,North Indian,4
+503,Chichaba's Taj,150, Mughlai,4
+503,Chichaba's Taj,150, Biryani,4
+503,Chichaba's Taj,150, Kebab,4
+503,Chichaba's Taj,150, Seafood,4
+503,Chichaba's Taj,150, Beverages,4
+504,Karavali Family Restaurant,150,Mangalorean,3.9
+504,Karavali Family Restaurant,150, Biryani,3.9
+504,Karavali Family Restaurant,150, Chinese,3.9
+504,Karavali Family Restaurant,150, South Indian,3.9
+505,Udupi Shanthi Sagar,150,North Indian,4
+505,Udupi Shanthi Sagar,150, South Indian,4
+505,Udupi Shanthi Sagar,150, Chinese,4
+505,Udupi Shanthi Sagar,150, Street Food,4
+505,Udupi Shanthi Sagar,150, Beverages,4
+506,Al-Pizzalicious,150,Fast Food,3.6
+506,Al-Pizzalicious,150, Pizza,3.6
+506,Al-Pizzalicious,150, Burger,3.6
+506,Al-Pizzalicious,150, Sandwich,3.6
+507,Green Onion,150,Chinese,4.2
+507,Green Onion,150, Seafood,4.2
+507,Green Onion,150, Sichuan,4.2
+508,Shahi Family Restaurant,150,North Indian,3.6
+508,Shahi Family Restaurant,150, Chinese,3.6
+508,Shahi Family Restaurant,150, South Indian,3.6
+508,Shahi Family Restaurant,150, Biryani,3.6
+509,Taj Hotel,150,Chinese,3.8
+509,Taj Hotel,150, South Indian,3.8
+509,Taj Hotel,150, North Indian,3.8
+509,Taj Hotel,150, Mughlai,3.8
+510,Marwadi Chaat & Tiffin Services,150,North Indian,3.7
+510,Marwadi Chaat & Tiffin Services,150, Street Food,3.7
+510,Marwadi Chaat & Tiffin Services,150, Chinese,3.7
+510,Marwadi Chaat & Tiffin Services,150, Beverages,3.7
+511,Happy Platter,150,Chinese,4
+511,Happy Platter,150, North Indian,4
+511,Happy Platter,150, Rolls,4
+511,Happy Platter,150, Fast Food,4
+512,Karama Restaurant,150,Arabian,4
+512,Karama Restaurant,150, Mughlai,4
+512,Karama Restaurant,150, Seafood,4
+512,Karama Restaurant,150, North Indian,4
+512,Karama Restaurant,150, Kashmiri,4
+512,Karama Restaurant,150, Biryani,4
+512,Karama Restaurant,150, Desserts,4
+513,Cake Pastries,100,Bakery,3.9
+514,Chung's Chinese Corner,100,Chinese,3.7
+514,Chung's Chinese Corner,100, Asian,3.7
+514,Chung's Chinese Corner,100, Seafood,3.7
+514,Chung's Chinese Corner,100, Thai,3.7
+514,Chung's Chinese Corner,100, Sichuan,3.7
+515,Giani Icecream,100,Ice Cream,3.9
+515,Giani Icecream,100, Beverages,3.9
+515,Giani Icecream,100, Desserts,3.9
+515,Giani Icecream,100, Shake,3.9
+516,Sai Ram Juice And Chats,100,Street Food,3.6
+516,Sai Ram Juice And Chats,100, Fast Food,3.6
+516,Sai Ram Juice And Chats,100, Juices,3.6
+517,Sri Maruthi Miltry Hotel,100,South Indian,3.8
+517,Sri Maruthi Miltry Hotel,100, Biryani,3.8
+517,Sri Maruthi Miltry Hotel,100, Chinese,3.8
+518,Mr. Chow,100,Momos,3.8
+519,Chaat Point,100,Street Food,4.2
+520,Azuki Japan Travel Bistro & Sake,100,Japanese,4.4
+520,Azuki Japan Travel Bistro & Sake,100, Asian,4.4
+520,Azuki Japan Travel Bistro & Sake,100, Beverages,4.4
+521,Sai Cafe Veg,100,Street Food,4
+521,Sai Cafe Veg,100, South Indian,4
+521,Sai Cafe Veg,100, Chinese,4
+521,Sai Cafe Veg,100, Beverages,4
+521,Sai Cafe Veg,100, Sichuan,4
+522,Sheesh Kebab,100,Kebab,4
+522,Sheesh Kebab,100, Iranian,4
+522,Sheesh Kebab,100, Mughlai,4
+522,Sheesh Kebab,100, Biryani,4
+522,Sheesh Kebab,100, Rolls,4
+522,Sheesh Kebab,100, Desserts,4
+523,Mane Holige Kuruku Thindi,100,Mithai,4
+524,Dock Frost'd,100,Ice Cream,4.4
+524,Dock Frost'd,100, Desserts,4.4
+524,Dock Frost'd,100, Beverages,4.4
+524,Dock Frost'd,100, Shake,4.4
+525,The Baker's Dozen,150,Bakery,4
+525,The Baker's Dozen,150, Desserts,4
+526,Green Chilly,150,North Indian,4.3
+526,Green Chilly,150, Chinese,4.3
+526,Green Chilly,150, Beverages,4.3
+526,Green Chilly,150, Shake,4.3
+527,Edesia by Freshmenu,150,Bakery,4.3
+527,Edesia by Freshmenu,150, Desserts,4.3
+528,Davanagere Benne Dose,150,South Indian,4.1
+529,Drunken Monkey,150,Beverages,4.1
+530,Big Wong,150,Asian,4.3
+530,Big Wong,150, Sushi,4.3
+530,Big Wong,150, Chinese,4.3
+530,Big Wong,150, Thai,4.3
+530,Big Wong,150, Sichuan,4.3
+531,Haka,150,Chinese,4
+531,Haka,150, Momos,4
+531,Haka,150,Chinese,4
+531,Haka,150, Momos,4
+568,Haka,300,Chinese,4.1
+568,Haka,300, Momos,4.1
+568,Haka,300,Chinese,4.1
+568,Haka,300, Momos,4.1
+532,Happy Belly Bakes,150,Bakery,4.5
+532,Happy Belly Bakes,150, Desserts,4.5
+532,Happy Belly Bakes,150, Cafe,4.5
+532,Happy Belly Bakes,150, Beverages,4.5
+533,Uff Urban Food Factory,150,South Indian,3.7
+533,Uff Urban Food Factory,150, North Indian,3.7
+533,Uff Urban Food Factory,150, Chinese,3.7
+533,Uff Urban Food Factory,150, Seafood,3.7
+533,Uff Urban Food Factory,150, Beverages,3.7
+534,Venus Biryani,150,Biryani,3.9
+534,Venus Biryani,150, Chettinad,3.9
+535,Odia Khaiba,150,Odia,3.7
+535,Odia Khaiba,150, North Indian,3.7
+535,Odia Khaiba,150, Chinese,3.7
+535,Odia Khaiba,150, Seafood,3.7
+535,Odia Khaiba,150, Sichuan,3.7
+536,Food Manthra,150,North Indian,3.6
+536,Food Manthra,150, Chinese,3.6
+536,Food Manthra,150, Biryani,3.6
+536,Food Manthra,150, Rolls,3.6
+536,Food Manthra,150, South Indian,3.6
+537,The Hole In The Wall Cafe,200,Cafe,4.2
+537,The Hole In The Wall Cafe,200, Continental,4.2
+537,The Hole In The Wall Cafe,200, Burger,4.2
+537,The Hole In The Wall Cafe,200, Sandwich,4.2
+537,The Hole In The Wall Cafe,200, Shake,4.2
+537,The Hole In The Wall Cafe,200, Beverages,4.2
+537,The Hole In The Wall Cafe,200, Desserts,4.2
+538,DA Ying Yang Cuisines,200,Chinese,4.1
+538,DA Ying Yang Cuisines,200, Fast Food,4.1
+538,DA Ying Yang Cuisines,200, Sichuan,4.1
+539,Mr. Momo,200,Momos,3.8
+539,Mr. Momo,200, Chinese,3.8
+541,Grand Foodies Restaurant,200,Biryani,3.9
+541,Grand Foodies Restaurant,200, Chinese,3.9
+541,Grand Foodies Restaurant,200, Kebab,3.9
+541,Grand Foodies Restaurant,200, Rolls,3.9
+542,New Taj Biriyani,200,Biryani,4.1
+543,Kabab Magic Roll,200,Chinese,3.7
+543,Kabab Magic Roll,200, Fast Food,3.7
+543,Kabab Magic Roll,200, Rolls,3.7
+543,Kabab Magic Roll,200, BBQ,3.7
+544,"Oki Poki - Sushi, Dimsum & More",200,Chinese,4
+544,"Oki Poki - Sushi, Dimsum & More",200, Asian,4
+544,"Oki Poki - Sushi, Dimsum & More",200, Thai,4
+544,"Oki Poki - Sushi, Dimsum & More",200, Sushi,4
+544,"Oki Poki - Sushi, Dimsum & More",200, Japanese,4
+545,Hotel Bilal Biriyani Centre,200,Biryani,4
+545,Hotel Bilal Biriyani Centre,200, North Indian,4
+546,Uttara Karnataka Jolada Rotti mattu Chapati Angadi,200,South Indian,3.8
+547,Prowl Foods By Tiger Shroff,200,Asian,3.4
+547,Prowl Foods By Tiger Shroff,200, North Indian,3.4
+547,Prowl Foods By Tiger Shroff,200, Healthy Food,3.4
+548,Via Milano,200,Italian,3.5
+548,Via Milano,200, Pizza,3.5
+548,Via Milano,200, Continental,3.5
+548,Via Milano,200, Pasta,3.5
+548,Via Milano,200, Desserts,3.5
+548,Via Milano,200, Beverages,3.5
+549,Food Springs,200,Chinese,4.1
+549,Food Springs,200, Asian,4.1
+549,Food Springs,200, Beverages,4.1
+549,Food Springs,200, Sichuan,4.1
+550,Protein Chef,200,Sandwich,3.7
+550,Protein Chef,200, Rolls,3.7
+550,Protein Chef,200, North Indian,3.7
+551,3 Mangos,200,Ice Cream,4.1
+551,3 Mangos,200, Desserts,4.1
+551,3 Mangos,200, Shake,4.1
+552,Shree Ganesh Fruits Juice,200,Beverages,3.8
+552,Shree Ganesh Fruits Juice,200, Juices,3.8
+552,Shree Ganesh Fruits Juice,200, Fast Food,3.8
+553,Bombay Kulfi & Rabri,200,Ice Cream,4.4
+554,Baba Ganoush Cafe,200,Fast Food,4.2
+554,Baba Ganoush Cafe,200, Arabian,4.2
+554,Baba Ganoush Cafe,200, Lebanese,4.2
+554,Baba Ganoush Cafe,200, Beverages,4.2
+554,Baba Ganoush Cafe,200, Desserts,4.2
+556,Chickpet Donne Biryani House,200,Biryani,3.7
+556,Chickpet Donne Biryani House,200, South Indian,3.7
+556,Chickpet Donne Biryani House,200, Kebab,3.7
+559,Hyderabad Biryaani House,200,Biryani,4.1
+559,Hyderabad Biryaani House,200, North Indian,4.1
+559,Hyderabad Biryaani House,200, Hyderabadi,4.1
+559,Hyderabad Biryaani House,200, Mughlai,4.1
+559,Hyderabad Biryaani House,200, Chinese,4.1
+560,Kapoor's Cafe,200,North Indian,4.2
+560,Kapoor's Cafe,200, Beverages,4.2
+560,Kapoor's Cafe,200, Desserts,4.2
+561,Aromas Of Biryani,200,Biryani,4
+561,Aromas Of Biryani,200, North Indian,4
+561,Aromas Of Biryani,200, Chinese,4
+561,Aromas Of Biryani,200, Mughlai,4
+561,Aromas Of Biryani,200, Kebab,4
+561,Aromas Of Biryani,200, Seafood,4
+561,Aromas Of Biryani,200, Ice Cream,4
+561,Aromas Of Biryani,200, Beverages,4
+563,NH8,200,Rajasthani,3.6
+563,NH8,200, North Indian,3.6
+564,New Punjabi Hotel,200,North Indian,3.7
+564,New Punjabi Hotel,200, Chinese,3.7
+565,Chikpet Donne Biriyani House,200,South Indian,4.1
+565,Chikpet Donne Biriyani House,200, Biryani,4.1
+566,SGS Non Veg - Gundu Pulav,200,South Indian,4.6
+567,Hotel Navayuga,300,Andhra,4.3
+567,Hotel Navayuga,300, Biryani,4.3
+569,Chung Wah,300,Chinese,4.1
+569,Chung Wah,300, Thai,4.1
+569,Chung Wah,300, Vietnamese,4.1
+569,Chung Wah,300, Sichuan,4.1
+572,Hotel Prashanth,300,South Indian,4.1
+572,Hotel Prashanth,300, North Indian,4.1
+572,Hotel Prashanth,300, Chinese,4.1
+574,Gurukrupa Paratha House,300,North Indian,4
+574,Gurukrupa Paratha House,300, Chinese,4
+574,Gurukrupa Paratha House,300, Mughlai,4
+575,Burma Burma,300,Salad,4.4
+575,Burma Burma,300, Burmese,4.4
+575,Burma Burma,300, Asian,4.4
+575,Burma Burma,300, Tea,4.4
+575,Burma Burma,300, Beverages,4.4
+576,Maravanthe,300,Seafood,4.2
+576,Maravanthe,300, Mangalorean,4.2
+576,Maravanthe,300, North Indian,4.2
+576,Maravanthe,300, Chinese,4.2
+576,Maravanthe,300, Kerala,4.2
+576,Maravanthe,300, Desserts,4.2
+576,Maravanthe,300, Beverages,4.2
+577,Chianti,300,Pizza,4.1
+577,Chianti,300, Pasta,4.1
+577,Chianti,300, Italian,4.1
+577,Chianti,300, Salad,4.1
+577,Chianti,300, Desserts,4.1
+577,Chianti,300, Beverages,4.1
+577,Chianti,300, Juices,4.1
+578,Karim's Delhi 6,300,Mughlai,4
+578,Karim's Delhi 6,300, North Indian,4
+578,Karim's Delhi 6,300, Rolls,4
+579,Punjabi Pure Veg Restaurant Since 1994,150,North Indian,3.8
+579,Punjabi Pure Veg Restaurant Since 1994,150, Beverages,3.8
+579,Punjabi Pure Veg Restaurant Since 1994,150, Chinese,3.8
+580,The Grill & Cheese Cafe,150,Continental,4.3
+580,The Grill & Cheese Cafe,150, Fast Food,4.3
+581,BIB - Breakfast In The Box,150,Continental,3.8
+582,Anupam's Coast II Coast,150,Seafood,3.9
+582,Anupam's Coast II Coast,150, Mangalorean,3.9
+582,Anupam's Coast II Coast,150, North Indian,3.9
+582,Anupam's Coast II Coast,150, Chinese,3.9
+582,Anupam's Coast II Coast,150, Beverages,3.9
+582,Anupam's Coast II Coast,150, Sichuan,3.9
+583,Paratha Plaza,150,North Indian,4.2
+583,Paratha Plaza,150, Chinese,4.2
+584,Karavali Kolimane,150,North Indian,4.1
+584,Karavali Kolimane,150, Chinese,4.1
+584,Karavali Kolimane,150, Biryani,4.1
+584,Karavali Kolimane,150, Seafood,4.1
+584,Karavali Kolimane,150, Mangalorean,4.1
+584,Karavali Kolimane,150, Sichuan,4.1
+585,Dal Roti Sabji,150,North Indian,4.3
+586,Bheema's,150,Chinese,4.2
+586,Bheema's,150, North Indian,4.2
+586,Bheema's,150, Mughlai,4.2
+587,Hotel Select,150,South Indian,
+588,Phobidden Fruit,150,Vietnamese,4.4
+588,Phobidden Fruit,150, Asian,4.4
+588,Phobidden Fruit,150, Desserts,4.4
+589,The Fatty Bao,150,Asian,4.3
+589,The Fatty Bao,150, Sushi,4.3
+589,The Fatty Bao,150, Japanese,4.3
+589,The Fatty Bao,150, Chinese,4.3
+589,The Fatty Bao,150, Thai,4.3
+589,The Fatty Bao,150, Momos,4.3
+589,The Fatty Bao,150, Beverages,4.3
+590,China Bistro,150,Chinese,4.2
+590,China Bistro,150, Asian,4.2
+590,China Bistro,150, Oriental,4.2
+590,China Bistro,150, Thai,4.2
+590,China Bistro,150, Seafood,4.2
+590,China Bistro,150, Beverages,4.2
+590,China Bistro,150, Desserts,4.2
+591,Karavali Lunch Home,150,Seafood,4
+591,Karavali Lunch Home,150, Mangalorean,4
+592,Bangalore Mandarin,150,Chinese,4.2
+592,Bangalore Mandarin,150, Seafood,4.2
+592,Bangalore Mandarin,150, Sichuan,4.2
+593,Wow Chow,150,Chinese,
+593,Wow Chow,150, Momos,
+594,Nagashree's,150,South Indian,
+594,Nagashree's,150, North Indian,
+594,Nagashree's,150, Fast Food,
+596,Fishland,150,Seafood,4.1
+596,Fishland,150, Chettinad,4.1
+597,Coastal Machali Co.,150,Asian,3.7
+597,Coastal Machali Co.,150, Mangalorean,3.7
+597,Coastal Machali Co.,150, Seafood,3.7
+597,Coastal Machali Co.,150, South Indian,3.7
+597,Coastal Machali Co.,150, North Indian,3.7
+597,Coastal Machali Co.,150, Chinese,3.7
+597,Coastal Machali Co.,150, Beverages,3.7
+597,Coastal Machali Co.,150, Sichuan,3.7
+598,Dakshin,150,North Indian,3.9
+598,Dakshin,150, South Indian,3.9
+599,N.S Grills And Kabab Corner,150,Rolls,
+599,N.S Grills And Kabab Corner,150, Kebab,
+600,Baisakhi,150,North Indian,4
+600,Baisakhi,150, Beverages,4
+600,Baisakhi,150, Desserts,4
+601,21st Amendment Gastrobar,150,North Indian,
+601,21st Amendment Gastrobar,150, Continental,
+601,21st Amendment Gastrobar,150, Chinese,
+601,21st Amendment Gastrobar,150, Bar Food,
+601,21st Amendment Gastrobar,150, Sichuan,
+601,21st Amendment Gastrobar,150, Beverages,
+602,Salt Mango Tree,150,Kerala,3.7
+602,Salt Mango Tree,150, Biryani,3.7
+602,Salt Mango Tree,150, South Indian,3.7
+602,Salt Mango Tree,150, Seafood,3.7
+602,Salt Mango Tree,150, Desserts,3.7
+602,Salt Mango Tree,150, Beverages,3.7
+603,Raaga,250,North Indian,3.9
+603,Raaga,250, Mughlai,3.9
+603,Raaga,250, Biryani,3.9
+603,Raaga,250, Chinese,3.9
+603,Raaga,250, Desserts,3.9
+603,Raaga,250, Beverages,3.9
+603,Raaga,250, Shake,3.9
+603,Raaga,250, Sichuan,3.9
+604,Veg Brooo - Chinese,250,Chinese,3.5
+604,Veg Brooo - Chinese,250, Sichuan,3.5
+605,Al Noor,250,North Indian,4.4
+605,Al Noor,250, Chinese,4.4
+606,World On A Plate - Citrine Hotel,250,Continental,3.8
+606,World On A Plate - Citrine Hotel,250, Mexican,3.8
+606,World On A Plate - Citrine Hotel,250, Italian,3.8
+606,World On A Plate - Citrine Hotel,250, Chinese,3.8
+606,World On A Plate - Citrine Hotel,250, North Indian,3.8
+606,World On A Plate - Citrine Hotel,250, Desserts,3.8
+606,World On A Plate - Citrine Hotel,250, Sichuan,3.8
+608,Pulimunchi,250,Mangalorean,4
+608,Pulimunchi,250, Seafood,4
+608,Pulimunchi,250, Beverages,4
+609,Butter Delivery,250,North Indian,4.3
+610,The Konkan - Seafood Restaurant,250,Konkan,4.3
+610,The Konkan - Seafood Restaurant,250, Mangalorean,4.3
+610,The Konkan - Seafood Restaurant,250, Chinese,4.3
+610,The Konkan - Seafood Restaurant,250, Beverages,4.3
+611,Pahilwani Handi,250,Biryani,4
+611,Pahilwani Handi,250, South Indian,4
+611,Pahilwani Handi,250, North Indian,4
+612,Chung Wah Express,250,Chinese,4.3
+612,Chung Wah Express,250, Thai,4.3
+612,Chung Wah Express,250, Vietnamese,4.3
+612,Chung Wah Express,250, Sichuan,4.3
+613,Mangalore Pearl - Seafood Restaurant,250,Mangalorean,4.2
+613,Mangalore Pearl - Seafood Restaurant,250, Seafood,4.2
+613,Mangalore Pearl - Seafood Restaurant,250, Desserts,4.2
+614,Bombay Brasserie,250,Modern Indian,3.8
+614,Bombay Brasserie,250, Bar Food,3.8
+614,Bombay Brasserie,250, Beverages,3.8
+615,Hotel Chandru - Nimma Mane Oota,50,South Indian,4
+615,Hotel Chandru - Nimma Mane Oota,50, Chinese,4
+616,Chapathi Box,50,North Indian,
+616,Chapathi Box,50, Rolls,
+617,G.H.S Nonveg,50,South Indian,
+617,G.H.S Nonveg,50, Chinese,
+618,Apple Villa Restaurant,50,Chinese,
+618,Apple Villa Restaurant,50, North Indian,
+618,Apple Villa Restaurant,50, Mughlai,
+618,Apple Villa Restaurant,50, Biryani,
+618,Apple Villa Restaurant,50, Sichuan,
+619,Hokart - Bangalore 99 Variety Dosa,50,South Indian,
+620,Hokart - Darjeeling Momos,50,Momos,
+621,Holige Mane,50,South Indian,
+622,Aioli BBQ And Grill,50,Mediterranean,
+622,Aioli BBQ And Grill,50, European,
+622,Aioli BBQ And Grill,50, BBQ,
+622,Aioli BBQ And Grill,50, Healthy Food,
+622,Aioli BBQ And Grill,50, Salad,
+623,Mumbai 99 Variety Dosa Special,50,South Indian,
+624,Nammura Taaja Upahara,50,South Indian,
+624,Nammura Taaja Upahara,50, North Indian,
+624,Nammura Taaja Upahara,50, Chinese,
+624,Nammura Taaja Upahara,50, Shake,
+625,Brown Burger Co,50,Burger,3.9
+625,Brown Burger Co,50, Fast Food,3.9
+625,Brown Burger Co,50, Beverages,3.9
+625,Brown Burger Co,50, Desserts,3.9
+626,Ying Zheng China,50,Chinese,3.5
+627,Euphoria Bakers,200,Desserts,
+628,The Adukkala Restaurant,200,Kerala,4.2
+628,The Adukkala Restaurant,200, Beverages,4.2
+629,Yama Shiro,200,Chinese,
+629,Yama Shiro,200, Thai,
+629,Yama Shiro,200, Asian,
+629,Yama Shiro,200, Seafood,
+629,Yama Shiro,200, Japanese,
+630,Chaat Paavlian,200,South Indian,4.1
+630,Chaat Paavlian,200, North Indian,4.1
+630,Chaat Paavlian,200, Chinese,4.1
+630,Chaat Paavlian,200, Street Food,4.1
+630,Chaat Paavlian,200, Fast Food,4.1
+630,Chaat Paavlian,200, Beverages,4.1
+630,Chaat Paavlian,200, Desserts,4.1
+630,Chaat Paavlian,200, Ice Cream,4.1
+631,JIANG Pure Veg,200,Chinese,3.8
+632,The Gourmet Kitchen & Bar- Hotel Ramanashree,200,North Indian,3.3
+632,The Gourmet Kitchen & Bar- Hotel Ramanashree,200, Chinese,3.3
+632,The Gourmet Kitchen & Bar- Hotel Ramanashree,200, Asian,3.3
+632,The Gourmet Kitchen & Bar- Hotel Ramanashree,200, Mughlai,3.3
+632,The Gourmet Kitchen & Bar- Hotel Ramanashree,200, Biryani,3.3
+632,The Gourmet Kitchen & Bar- Hotel Ramanashree,200, Desserts,3.3
+632,The Gourmet Kitchen & Bar- Hotel Ramanashree,200, Sichuan,3.3
+633,Kudla - Hotel Ramanashree,200,South Indian,4.2
+633,Kudla - Hotel Ramanashree,200, Andhra,4.2
+633,Kudla - Hotel Ramanashree,200, Chinese,4.2
+633,Kudla - Hotel Ramanashree,200, Seafood,4.2
+633,Kudla - Hotel Ramanashree,200, Desserts,4.2
+633,Kudla - Hotel Ramanashree,200, Sichuan,4.2
+634,Dvg Biryani And Kabab Center,200,Biryani,
+635,The Sandwich Bite,200,Sandwich,
+636,Cafe Igniite,200,Chinese,
+636,Cafe Igniite,200, Fast Food,
+636,Cafe Igniite,200, Pasta,
+636,Cafe Igniite,200, Continental,
+636,Cafe Igniite,200, Sichuan,
+637,Simply Veg,200,North Indian,4
+637,Simply Veg,200, Chinese,4
+637,Simply Veg,200, South Indian,4
+637,Simply Veg,200, Fast Food,4
+637,Simply Veg,200, Desserts,4
+637,Simply Veg,200, Beverages,4
+637,Simply Veg,200, Shake,4
+637,Simply Veg,200, Sichuan,4
+638,New Dillibite,200,North Indian,
+638,New Dillibite,200, Chinese,
+639,Clay Resto,200,North Indian,
+639,Clay Resto,200, Mughlai,
+639,Clay Resto,200, Chinese,
+639,Clay Resto,200, Sichuan,
+640,Dinesh Food Corner,200,North Indian,
+640,Dinesh Food Corner,200, Chinese,
+641,Yohan Kitchen,200,Biryani,
+641,Yohan Kitchen,200, Desserts,
+642,Latitude - Tulip Inn,200,North Indian,
+642,Latitude - Tulip Inn,200, Chinese,
+642,Latitude - Tulip Inn,200, Seafood,
+642,Latitude - Tulip Inn,200, South Indian,
+642,Latitude - Tulip Inn,200, Beverages,
+642,Latitude - Tulip Inn,200, Sichuan,
+643,Hotel New Prashanth Naati Shyli,200,Chinese,
+643,Hotel New Prashanth Naati Shyli,200, North Indian,
+643,Hotel New Prashanth Naati Shyli,200, South Indian,
+643,Hotel New Prashanth Naati Shyli,200, Beverages,
+644,Samruddi Nonveg,200,South Indian,
+644,Samruddi Nonveg,200, Biryani,
+645,Randhan - A - Bandhan,200,Bengali,3.3
+645,Randhan - A - Bandhan,200, Mughlai,3.3
+645,Randhan - A - Bandhan,200, North Indian,3.3
+645,Randhan - A - Bandhan,200, Chinese,3.3
+645,Randhan - A - Bandhan,200, Rolls,3.3
+645,Randhan - A - Bandhan,200, Desserts,3.3
+646,Amudham Biryani,200,Biryani,
+646,Amudham Biryani,200, South Indian,
+647,Green Kitchen Palace,200,Biryani,
+647,Green Kitchen Palace,200, Street Food,
